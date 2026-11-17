@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>radar·energía · El día del sector energético en México</title>
+<meta name="description" content="Radar diario del sector energético en México: lo que publicó el DOF, lo nuevo de la CNE, la SENER, la ASEA y el CENACE, y las referencias del mercado. Cada dato con liga a su fuente oficial.">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0a0c10">
+<link rel="canonical" href="https://beg-lag.github.io/radar-energia/">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/atom+xml" title="radar·energía" href="feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:title" content="radar·energía">
+<meta property="og:description" content="DOF, regulador, ministerio y mercado: el día del sector energético en México, con liga a la fuente oficial.">
+<meta property="og:url" content="https://beg-lag.github.io/radar-energia/">
+<meta property="og:image" content="https://beg-lag.github.io/radar-energia/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="assets/fonts/jetbrains-mono-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="assets/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#hoy" data-i18n="nav.skip">Saltar al contenido</a>
+
+<header class="top">
+  <div class="wrap top-row">
+    <a class="brand" href="./" aria-label="radar·energía, inicio">
+      <svg class="brand-mark" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><rect x="1" y="1" width="22" height="22" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12 12 L12 3 A9 9 0 0 1 20.2 8.3 Z" fill="#cfff45"/><circle cx="12" cy="12" r="1.8" fill="#cfff45"/></svg>
+      <span>radar<b>·</b>energía</span>
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#hoy" data-i18n="nav.today">Hoy</a>
+      <a href="#mercados" data-i18n="nav.markets">Mercados</a>
+      <a href="#archivo" data-i18n="nav.archive">Archivo</a>
+      <a href="#rss">RSS</a>
+      <a href="#fuentes" data-i18n="nav.sources">Fuentes</a>
+    </nav>
+    <button type="button" class="lang" id="lang" aria-label="Read in English" data-i18n-aria="nav.lang">EN</button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero wrap" aria-labelledby="hero-title">
+  <div class="hero-text">
+    <p class="kicker"><span class="dot" aria-hidden="true"></span> <span data-i18n="hero.kicker">Radar del</span> {{date_long}}</p>
+    <h1 id="hero-title"><span data-i18n="hero.title.a">El día del sector energético,</span> <em data-i18n="hero.title.b">con su fuente oficial.</em></h1>
+    <p class="hero-sub" data-i18n="hero.sub">Lo que publicó el Diario Oficial de la Federación sobre energía, lo nuevo de la CNE, la SENER, la ASEA y el CENACE, y las referencias del mercado. Se actualiza solo cada mañana y cada noche; cada dato lleva a su fuente.</p>
+    <dl class="stats">
+      <div><dt data-i18n="hero.stat.dof">DOF de energía hoy</dt><dd>{{count_dof}}</dd></div>
+      <div><dt data-i18n="hero.stat.week">Publicaciones, últimos 7 días</dt><dd>{{count_week}}</dd></div>
+      <div><dt><span data-i18n="hero.stat.total">En el archivo desde el</span> {{first_date}}</dt><dd>{{count_total}}</dd></div>
+      <div><dt data-i18n="hero.stat.fix">FIX (MXN/USD)</dt><dd>{{fix_value}}</dd></div>
+    </dl>
+  </div>
+  <figure class="hero-radar">{{radar}}<figcaption data-i18n="hero.radar">Últimos 30 días. Ángulo: subsector. Distancia al centro: antigüedad.</figcaption></figure>
+  </section>
+
+  <div class="wrap grid-main">
+    <section id="hoy" class="block" aria-labelledby="dof-title">
+      <h2 id="dof-title" class="block-title"><span class="num">01</span> <span data-i18n="dof.title">Diario Oficial de la Federación</span></h2>
+      {{dof}}
+    </section>
+
+    <section id="autoridades" class="block" aria-labelledby="auth-title">
+      <h2 id="auth-title" class="block-title"><span class="num">02</span> <span data-i18n="auth.title">Regulador y ministerio</span></h2>
+      <p class="block-note" data-i18n="auth.note">Comunicados, documentos y artículos de la CNE, la SENER, la ASEA y el CENACE en gob.mx. Las resoluciones y acuerdos de carácter general aparecen además en el DOF.</p>
+      {{authorities}}
+    </section>
+  </div>
+
+  <section id="mercados" class="block wrap" aria-labelledby="mk-title">
+    <h2 id="mk-title" class="block-title"><span class="num">03</span> <span data-i18n="mk.title">Referencias del mercado</span></h2>
+    <div class="cards">{{markets}}</div>
+  </section>
+
+  <section id="pulso" class="block wrap" aria-labelledby="pulse-title">
+    <h2 id="pulse-title" class="block-title"><span class="num">04</span> <span data-i18n="pulse.title">Pulso por subsector</span></h2>
+    <div class="cards two">{{pulse}}</div>
+  </section>
+
+  <section id="archivo" class="block wrap" aria-labelledby="archive-title">
+    <h2 id="archive-title" class="block-title"><span class="num">05</span> <span data-i18n="archive.title">Archivo y búsqueda</span></h2>
+    <form class="search" id="search" role="search" onsubmit="return false">
+      <label class="field grow"><span data-i18n="search.q">Palabra clave</span>
+        <input type="search" id="q" name="q" autocomplete="off" spellcheck="false" placeholder="gas natural, permiso, NOM..." data-i18n-placeholder="search.placeholder"></label>
+      <label class="field"><span data-i18n="search.ss">Subsector</span>
+        <select id="ss" name="ss"><option value="" data-i18n="search.all">Todos</option>{{ss_options}}</select></label>
+      <label class="field"><span data-i18n="search.ag">Autoridad</span>
+        <select id="ag" name="ag"><option value="" data-i18n="search.all">Todos</option>{{agency_options}}</select></label>
+      <label class="field"><span data-i18n="search.src">Origen</span>
+        <select id="src" name="src"><option value="" data-i18n="search.all">Todos</option><option value="dof">DOF</option><option value="gobmx">gob.mx</option></select></label>
+      <button type="reset" class="clear" id="clear" data-i18n="search.clear">Limpiar</button>
+    </form>
+    <p class="search-status" id="status" aria-live="polite"><span data-i18n="archive.lede">Últimos 30 días. Escribe o filtra para buscar en todo el archivo.</span></p>
+    <div id="results" hidden></div>
+    <div id="archive">{{archive}}</div>
+  </section>
+
+  <section id="rss" class="block wrap" aria-labelledby="rss-title">
+    <h2 id="rss-title" class="block-title"><span class="num">06</span> <span data-i18n="rss.title">Suscríbete por RSS</span></h2>
+    <div class="rss-grid">
+      <div class="prose">
+        <p data-i18n="rss.p1">RSS es un formato abierto para seguir un sitio sin dar tu correo y sin algoritmos: tu lector revisa las ligas y te muestra lo nuevo en orden.</p>
+        <p data-i18n="rss.p2">Copia una liga y pégala en tu lector de noticias (Feedly, Inoreader, NetNewsWire, Thunderbird u Outlook). Cada publicación nueva del radar llega con su título oficial y la liga a la fuente.</p>
+        <p class="muted" data-i18n="rss.p3">Los feeds usan Atom, el estándar que leen todos los lectores de RSS.</p>
+      </div>
+      {{feeds}}
+    </div>
+  </section>
+
+  <section id="fuentes" class="block wrap" aria-labelledby="src-title">
+    <h2 id="src-title" class="block-title"><span class="num">07</span> <span data-i18n="src.title">Fuentes verificadas</span></h2>
+    <p class="block-note"><span data-i18n="src.note">Cada fuente se probó sin cuentas ni tokens, con pausas entre peticiones y respetando robots.txt. VERDE se usa de forma automática, AMARILLO con cautela, ROJO solo se enlaza.</span> <a href="https://github.com/BEG-lag/radar-energia/blob/main/docs/fuentes.md" data-i18n="src.evidence">Evidencia completa</a>.</p>
+    {{sources}}
+    <p class="block-note" data-i18n="src.rules">Cómo se clasifica: reglas de palabras clave públicas, sin inteligencia artificial. Cada tarjeta muestra qué regla la incluyó.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-grid">
+    <div>
+      <p class="credit">Radar elaborado por Benjamín Esponda García · <a href="https://pivotek.mx">PIVOTEK</a> · <a href="https://pivotek.mx">pivotek.mx</a></p>
+      <p class="tagline" data-i18n="foot.pivotek">Asesoría legal en Energía e Infraestructura.</p>
+    </div>
+    <p class="disclaimer" data-i18n="foot.disclaimer">Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</p>
+    <p class="muted small"><a href="https://github.com/BEG-lag/radar-energia">GitHub</a> · <span data-i18n="foot.license">Código MIT, datos CC0</span> · <a href="data/latest.json">latest.json</a> · <a href="data/items.json">items.json</a> · v{{version}} · <span data-i18n="foot.notrack">Sin analítica ni cookies</span></p>
+  </div>
+</footer>
+</body>
+</html>

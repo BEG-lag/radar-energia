@@ -76,7 +76,9 @@ class PoliteClient:
                 if response.status_code not in RETRY_STATUS:
                     return response
                 error = FetchError(f"HTTP {response.status_code} for {url}")
-                log.warning("GET %s returned %d, attempt %d", url, response.status_code, attempt + 1)
+                log.warning(
+                    "GET %s returned %d, attempt %d", url, response.status_code, attempt + 1
+                )
                 retry_after = response.headers.get("Retry-After", "")
                 if retry_after.isdigit():
                     time.sleep(min(int(retry_after), 60))

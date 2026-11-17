@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/BEG-lag/radar-energia/main/schema/day.schema.json",
+  "title": "radar-energia day",
+  "description": "What official sources published about Mexico's energy sector on one date, stored as data/YYYY/MM/YYYY-MM-DD.json. Titles are copied verbatim from the official source; classification fields come from the keyword rules in src/radar_energia/rules.py.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "date", "dof", "authorities", "markets"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "date": { "$ref": "#/$defs/isoDate" },
+    "dof": {
+      "description": "Energy-related notes of the Diario Oficial de la Federación published that date, or null when no edition was published (or it was not available yet).",
+      "oneOf": [{ "type": "null" }, { "$ref": "#/$defs/dof" }]
+    },
+    "authorities": {
+      "description": "Entries published that date on gob.mx by CNE, SENER, ASEA or CENACE, newest first.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/authorityItem" }
+    },
+    "markets": { "$ref": "#/$defs/markets" }
+  },
+  "$defs": {
+    "isoDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "httpsUrl": { "type": "string", "pattern": "^https://" },
+    "subsector": {
+      "enum": ["electricidad", "hidrocarburos", "gas-natural", "petroliferos", "renovables", "mineria", "general"]
+    },
+    "agency": { "enum": ["SENER", "CNE", "ASEA", "CENACE", "CENAGAS", "CFE", "Pemex"] },
+    "classification": {
+      "type": "object",
+      "required": ["subsectors", "agencies", "matched"],
+      "properties": {
+        "subsectors": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/subsector" } },
+        "agencies": { "type": "array", "uniqueItems": true, "items": { "$ref": "#/$defs/agency" } },
+        "matched": {
+          "description": "Rule terms that matched the title (and issuer), for transparency.",
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "dof": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "editions", "notes_reviewed", "items"],
+      "properties": {
+        "source": { "type": "string", "pattern": "^https://sidof\\.segob\\.gob\\.mx/dof/sidof/notas/\\d{2}-\\d{2}-\\d{4}$" },
+        "editions": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "enum": ["matutina", "vespertina", "extraordinaria"] }
+        },
+        "notes_reviewed": {
+          "description": "Titled notes that are not avisos judiciales y generales, all of which went through the classifier.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "items": { "type": "array", "items": { "$ref": "#/$defs/dofItem" } }
+      }
+    },
+    "dofItem": {
+      "allOf": [{ "$ref": "#/$defs/classification" }],
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "dof_id", "edition", "issuer", "title", "url", "subsectors", "agencies", "matched"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^dof-\\d+$" },
+        "dof_id": { "description": "SIDOF codNota.", "type": "integer", "minimum": 1 },
+        "edition": { "enum": ["matutina", "vespertina", "extraordinaria"] },
+        "issuer": { "description": "Issuing body as SIDOF lists it.", "type": ["string", "null"] },
+        "title": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https://dof\\.gob\\.mx/nota_detalle\\.php\\?codigo=\\d+&fecha=\\d{2}/\\d{2}/\\d{4}$" },
+        "subsectors": true,
+        "agencies": true,
+        "matched": true
+      }
+    },
+    "authorityItem": {
+      "allOf": [{ "$ref": "#/$defs/classification" }],
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "agency", "section", "kind", "title", "url", "published", "subsectors", "agencies", "matched"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^gobmx-[A-Za-z0-9_.%-]+$" },
+        "agency": { "enum": ["CNE", "SENER", "ASEA", "CENACE"] },
+        "section": { "enum": ["prensa", "documentos", "articulos"] },
+        "kind": { "description": "Label shown by gob.mx (Comunicado, Documento, Artículo...).", "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https://www\\.gob\\.mx/" },
+        "published": {
+          "description": "Publication time on gob.mx, Mexico City time.",
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}-06:00$"
+        },
+        "subsectors": true,
+        "agencies": true,
+        "matched": true
+      }
+    },
+    "markets": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "fix": {
+          "description": "FIX exchange rate published in the DOF that date (determined by Banco de México the business day before).",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["value", "unit", "source"],
+          "properties": {
+            "value": { "type": "number", "exclusiveMinimum": 0 },
+            "unit": { "const": "MXN/USD" },
+            "source": { "$ref": "#/$defs/httpsUrl" }
+          }
+        },
+        "zonal_prices": {
+          "description": "Day-ahead market (MDA) load zone prices for this operating day, from CENACE SW-PEND.",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["system", "zone", "name", "avg", "min", "max", "hours", "source"],
+            "properties": {
+              "system": { "enum": ["SIN", "BCA", "BCS"] },
+              "zone": { "type": "string", "pattern": "^[A-Z0-9]+$" },
+              "name": { "type": "string" },
+              "avg": { "description": "Simple average of the hourly prices, MXN/MWh.", "type": "number" },
+              "min": { "type": "number" },
+              "max": { "type": "number" },
+              "hours": { "type": "integer", "minimum": 1, "maximum": 25 },
+              "source": { "type": "string", "pattern": "^https://ws01\\.cenace\\.gob\\.mx:8082/SWPEND/" }
+            }
+          }
+        },
+        "fuel": {
+          "description": "National summary of the station price XML read that day (snapshot; the source keeps no history).",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["stations", "unit", "source", "products"],
+          "properties": {
+            "stations": { "type": "integer", "minimum": 1 },
+            "unit": { "const": "MXN/l" },
+            "source": { "$ref": "#/$defs/httpsUrl" },
+            "products": {
+              "type": "object",
+              "additionalProperties": false,
+              "minProperties": 1,
+              "patternProperties": {
+                "^(regular|premium|diesel)$": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["median", "mean", "p10", "p90", "stations", "excluded"],
+                  "properties": {
+                    "median": { "type": "number" },
+                    "mean": { "type": "number" },
+                    "p10": { "type": "number" },
+                    "p90": { "type": "number" },
+                    "stations": { "type": "integer", "minimum": 1 },
+                    "excluded": { "type": "integer", "minimum": 0 }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gas_lp": {
+          "description": "Newest weekly PDF of LP gas maximum prices listed by the CNE (link only).",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["title", "url", "page"],
+          "properties": {
+            "title": { "type": "string", "minLength": 1 },
+            "url": { "$ref": "#/$defs/httpsUrl" },
+            "page": { "$ref": "#/$defs/httpsUrl" },
+            "valid_from": { "$ref": "#/$defs/isoDate" },
+            "valid_to": { "$ref": "#/$defs/isoDate" }
+          }
+        }
+      }
+    }
+  }
+}

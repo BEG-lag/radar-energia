@@ -40,7 +40,9 @@ ZONES: tuple[Zone, ...] = (
 
 
 def url(system: str, codes: Iterable[str], start: date, end: date, process: str = "MDA") -> str:
-    span = f"{start.year}/{start.month:02d}/{start.day:02d}/{end.year}/{end.month:02d}/{end.day:02d}"
+    span = (
+        f"{start.year}/{start.month:02d}/{start.day:02d}/{end.year}/{end.month:02d}/{end.day:02d}"
+    )
     return f"{BASE_URL}/{system}/{process}/{','.join(codes)}/{span}/JSON"
 
 

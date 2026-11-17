@@ -84,6 +84,7 @@ SUBSECTORS: tuple[Subsector, ...] = (
             "gasoducto*",
             "CENAGAS",
             "GNL",
+            "LNG",
             "licuefacción",
             "regasificación",
             "temporada abierta",
