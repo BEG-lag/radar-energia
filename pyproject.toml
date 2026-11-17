@@ -1,0 +1,48 @@
+[project]
+name = "radar-energia"
+version = "1.0.0"
+description = "A daily radar of Mexico's energy sector: DOF publications, regulator and ministry items and market references, each linked to its official source."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Benjamín Esponda García" }]
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27,<1",
+    "tzdata>=2024.1; sys_platform == 'win32'",
+]
+
+[project.urls]
+Homepage = "https://beg-lag.github.io/radar-energia/"
+Repository = "https://github.com/BEG-lag/radar-energia"
+Author = "https://pivotek.mx"
+
+[project.scripts]
+radar-energia = "radar_energia.cli:main"
+
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/radar_energia"]
+
+[dependency-groups]
+dev = [
+    "jsonschema>=4.23",
+    "pytest>=8.3",
+    "ruff>=0.8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF", "PT", "C4"]
+ignore = ["RUF001", "RUF002", "RUF003"]
