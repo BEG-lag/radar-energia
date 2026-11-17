@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-08",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/08-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 15,
+    "items": [
+      {
+        "id": "dof-5798117",
+        "dof_id": 5798117,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que se modifican, eliminan y adicionan diversas disposiciones de los Lineamientos para la migración voluntaria y expedita de autoabastecimiento y cogeneración de energía eléctrica a las figuras previstas en la Ley del Sector Eléctrico.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798117&fecha=08/09/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "eléctric*",
+          "cogeneración",
+          "energía"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 16.9237,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/08-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1406.39,
+        "min": 472.58,
+        "max": 4238.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/08/2026/09/08/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1501.79,
+        "min": 504.21,
+        "max": 4458.6,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/08/2026/09/08/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1758.32,
+        "min": 527.76,
+        "max": 4366.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/08/2026/09/08/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2485.24,
+        "min": 584.52,
+        "max": 9565.03,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/08/2026/09/08/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1079.64,
+        "min": 226.17,
+        "max": 4374.95,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/08/2026/09/08/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 3020.98,
+        "min": 579.65,
+        "max": 10027.54,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/08/2026/09/08/JSON"
+      }
+    ]
+  }
+}

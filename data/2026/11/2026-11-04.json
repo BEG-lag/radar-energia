@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/04-11-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 16,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-prensa-la-generacion-distribuida-en-mexico-supera-los-5-6-gw-de-capacidad-instalada-al-cierre-del-primer-semestre-de-2026",
+      "agency": "CNE",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La generación distribuida en México supera los 5.6 GW de capacidad instalada al cierre del primer semestre de 2026",
+      "url": "https://www.gob.mx/cne/prensa/la-generacion-distribuida-en-mexico-supera-los-5-6-gw-de-capacidad-instalada-al-cierre-del-primer-semestre-de-2026",
+      "published": "2026-11-04T13:04:00-06:00",
+      "subsectors": [
+        "electricidad"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": [
+        "generación distribuida"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.7592,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/04-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 755.65,
+        "min": 320.54,
+        "max": 2046.17,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/04/2026/11/04/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1168.61,
+        "min": 358.25,
+        "max": 3651.72,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/04/2026/11/04/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2199.67,
+        "min": 473.41,
+        "max": 5725.85,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/04/2026/11/04/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2248.66,
+        "min": 503.8,
+        "max": 5828.0,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/04/2026/11/04/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 316.52,
+        "min": 28.8,
+        "max": 761.29,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/04/2026/11/04/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 504.79,
+        "min": 371.31,
+        "max": 606.36,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/04/2026/11/04/JSON"
+      }
+    ]
+  }
+}

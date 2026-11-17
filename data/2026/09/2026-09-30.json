@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/30-09-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 19,
+    "items": [
+      {
+        "id": "dof-5799963",
+        "dof_id": 5799963,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que se emiten las Disposiciones administrativas de carácter general para el registro de las personas usuarias de patrón de alto consumo de energía y la implementación de Sistemas de Gestión de la Energía.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799963&fecha=30/09/2026",
+        "subsectors": [
+          "general"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "energía"
+        ]
+      },
+      {
+        "id": "dof-5799964",
+        "dof_id": 5799964,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo de la Comisión Nacional de Energía por el que se modifica el diverso por el que se emite la metodología para la determinación del cargo correspondiente al servicio de transmisión de energía eléctrica que preste la Suministradora a las Personas Permisionarias con centrales de generación de energía eléctrica, que cuenten con contrato de interconexión y convenio para el servicio de transmisión de energía eléctrica celebrados al amparo de la Ley del Servicio Público de Energía Eléctrica, publicado el 18 de junio de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799964&fecha=30/09/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "CNE"
+        ],
+        "matched": [
+          "eléctric*",
+          "energía",
+          "Comisión Nacional de Energía"
+        ]
+      },
+      {
+        "id": "dof-5800039",
+        "dof_id": 5800039,
+        "edition": "vespertina",
+        "issuer": "COMISION FEDERAL DE ELECTRICIDAD",
+        "title": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de septiembre de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800039&fecha=30/09/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "CFE"
+        ],
+        "matched": [
+          "eléctric*",
+          "electricidad",
+          "suministro básico",
+          "Comisión Federal de Electricidad"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.071,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/30-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 2378.45,
+        "min": 551.11,
+        "max": 4686.07,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/30/2026/09/30/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 2631.82,
+        "min": 598.29,
+        "max": 5165.02,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/30/2026/09/30/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 3139.75,
+        "min": 840.95,
+        "max": 5248.59,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/30/2026/09/30/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3211.07,
+        "min": 849.1,
+        "max": 5507.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/30/2026/09/30/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 235.58,
+        "min": 13.9,
+        "max": 413.7,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/30/2026/09/30/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 725.62,
+        "min": 429.81,
+        "max": 1396.09,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/30/2026/09/30/JSON"
+      }
+    ]
+  }
+}

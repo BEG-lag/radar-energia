@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-01",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/01-10-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 18,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-documentos-lista-actualizada-de-inspectores-federales",
+      "agency": "ASEA",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Lista Actualizada de Inspectores Federales",
+      "url": "https://www.gob.mx/asea/documentos/lista-actualizada-de-inspectores-federales",
+      "published": "2026-10-01T19:31:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": []
+    },
+    {
+      "id": "gobmx-sener-articulos-cfe-afianza-la-relacion-con-el-mercado-con-su-primer-encuentro-con-inversionistas",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "CFE AFIANZA LA RELACIÓN CON EL MERCADO CON SU PRIMER ENCUENTRO CON INVERSIONISTAS",
+      "url": "https://www.gob.mx/sener/es/articulos/cfe-afianza-la-relacion-con-el-mercado-con-su-primer-encuentro-con-inversionistas",
+      "published": "2026-10-01T10:42:00-06:00",
+      "subsectors": [
+        "electricidad"
+      ],
+      "agencies": [
+        "SENER",
+        "CFE"
+      ],
+      "matched": [
+        "CFE"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.0692,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/01-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 3333.82,
+        "min": 1099.49,
+        "max": 6861.02,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/01/2026/10/01/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 3554.3,
+        "min": 1245.5,
+        "max": 7176.06,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/01/2026/10/01/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 3791.07,
+        "min": 1292.51,
+        "max": 7364.65,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/01/2026/10/01/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3803.05,
+        "min": 1304.05,
+        "max": 7275.24,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/01/2026/10/01/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 449.09,
+        "min": 75.12,
+        "max": 2612.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/01/2026/10/01/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 752.79,
+        "min": 380.6,
+        "max": 1420.29,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/01/2026/10/01/JSON"
+      }
+    ]
+  }
+}

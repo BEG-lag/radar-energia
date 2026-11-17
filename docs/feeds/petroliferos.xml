@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-MX">
+  <title>radar·energía · Petrolíferos</title>
+  <subtitle>Publicaciones oficiales clasificadas como petrolíferos.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feeds/petroliferos.xml"/>
+  <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
+  <id>https://beg-lag.github.io/radar-energia/feeds/petroliferos.xml</id>
+  <updated>2026-11-13T07:00:00-06:00</updated>
+  <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
+  <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
+  <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803842&amp;fecha=13/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803842</id>
+    <updated>2026-11-13T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803841&amp;fecha=13/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803841</id>
+    <updated>2026-11-13T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803840&amp;fecha=13/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803840</id>
+    <updated>2026-11-13T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803259&amp;fecha=06/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803259</id>
+    <updated>2026-11-06T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803258&amp;fecha=06/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803258</id>
+    <updated>2026-11-06T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803257&amp;fecha=06/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803257</id>
+    <updated>2026-11-06T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo de la Comisión Nacional de Energía por el que se expiden las Disposiciones Administrativas de Carácter General que regulan la actividad de comercialización de gas natural, petrolíferos, gas licuado de petróleo y petroquímicos.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5803022&amp;fecha=05/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5803022</id>
+    <updated>2026-11-05T07:00:00-06:00</updated>
+    <category term="gas-natural" label="Gas natural"/>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Gas natural, Petrolíferos. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802699&amp;fecha=30/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802699</id>
+    <updated>2026-10-30T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802698&amp;fecha=30/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802698</id>
+    <updated>2026-10-30T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802697&amp;fecha=30/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802697</id>
+    <updated>2026-10-30T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de noviembre de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802460&amp;fecha=29/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802460</id>
+    <updated>2026-10-29T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición matutina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que la Secretaría de Energía emite los Lineamientos para la aprobación, actualización y vigilancia de los Organismos de Evaluación de la Conformidad que evalúan la conformidad de las Normas Oficiales Mexicanas que regulan las especificaciones de calidad de los Hidrocarburos, Petrolíferos y Petroquímicos y del registro de los laboratorios extranjeros que emitan documentos equivalentes a las Normas Oficiales Mexicanas que regulan las especificaciones de calidad.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802362&amp;fecha=28/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802362</id>
+    <updated>2026-10-28T07:00:00-06:00</updated>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Hidrocarburos, Petrolíferos. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo de la Comisión Nacional de Energía por el que se inicia el procedimiento administrativo de caducidad a los titulares de ciento treinta y dos permisos de comercialización de hidrocarburos, petrolíferos y petroquímicos, por presuntamente ubicarse en la hipótesis de caducidad prevista en el artículo 88, fracción I, inciso b, de la Ley del Sector Hidrocarburos.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802184&amp;fecha=27/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802184</id>
+    <updated>2026-10-27T07:00:00-06:00</updated>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Hidrocarburos, Petrolíferos. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802084&amp;fecha=23/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802084</id>
+    <updated>2026-10-23T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802083&amp;fecha=23/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802083</id>
+    <updated>2026-10-23T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802082&amp;fecha=23/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802082</id>
+    <updated>2026-10-23T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5801459&amp;fecha=16/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5801459</id>
+    <updated>2026-10-16T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5801458&amp;fecha=16/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5801458</id>
+    <updated>2026-10-16T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5801457&amp;fecha=16/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5801457</id>
+    <updated>2026-10-16T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Garantiza Pemex abasto de combustibles y CFE restablece suministro eléctrico tras el paso del huracán Simon</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon</id>
+    <updated>2026-10-11T21:11:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <category term="Pemex" label="Petróleos Mexicanos"/>
+    <summary>SENER en gob.mx. Artículo. Electricidad, Hidrocarburos, Petrolíferos. SENER · CFE · Pemex.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800919&amp;fecha=09/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800919</id>
+    <updated>2026-10-09T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800918&amp;fecha=09/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800918</id>
+    <updated>2026-10-09T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800917&amp;fecha=09/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800917</id>
+    <updated>2026-10-09T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>La ASEA publicó la NOM-EM-009-ASEA-2026 para la distribución de Gas LP por medio de auto-tanque y vehículo de reparto</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-publico-la-nom-em-009-asea-2026-para-la-distribucion-de-gas-lp-por-medio-de-auto-tanque-y-vehiculo-de-reparto"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-la-asea-publico-la-nom-em-009-asea-2026-para-la-distribucion-de-gas-lp-por-medio-de-auto-tanque-y-vehiculo-de-reparto</id>
+    <updated>2026-10-05T19:54:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Norma Oficial Mexicana de Emergencia NOM-EM-009-ASEA- 2026, Distribución de Gas Licuado de Petróleo por medio de Auto-tanque y Vehículo de Reparto.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800282&amp;fecha=05/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800282</id>
+    <updated>2026-10-05T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>DOF, edición matutina. SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>La ASEA publica la NOM-EM-008-ASEA-2026 para el transporte de Gas L.P. por auto-tanque y semirremolque</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-publica-la-nom-em-008-asea-2026-para-el-transporte-de-gas-l-p-por-auto-tanque-y-semirremolque"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-la-asea-publica-la-nom-em-008-asea-2026-para-el-transporte-de-gas-l-p-por-auto-tanque-y-semirremolque</id>
+    <updated>2026-10-02T13:55:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800259&amp;fecha=02/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800259</id>
+    <updated>2026-10-02T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800258&amp;fecha=02/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800258</id>
+    <updated>2026-10-02T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800257&amp;fecha=02/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800257</id>
+    <updated>2026-10-02T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Norma Oficial Mexicana de Emergencia NOM-EM-008-ASEA- 2026, Transporte de Gas Licuado de Petróleo por medio de Auto-tanque y Semirremolque.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800169&amp;fecha=02/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800169</id>
+    <updated>2026-10-02T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>DOF, edición matutina. SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>La ASEA y la RED CONOCER certifican a 691 operadores de pipas de gas LP a través de Estándares de Competencia</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-y-la-red-conocer-certifican-a-691-operadores-de-pipas-de-gas-lp-a-traves-de-estandares-de-competencia"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-la-asea-y-la-red-conocer-certifican-a-691-operadores-de-pipas-de-gas-lp-a-traves-de-estandares-de-competencia</id>
+    <updated>2026-09-25T10:14:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799681&amp;fecha=25/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799681</id>
+    <updated>2026-09-25T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799680&amp;fecha=25/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799680</id>
+    <updated>2026-09-25T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799679&amp;fecha=25/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799679</id>
+    <updated>2026-09-25T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de octubre de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799582&amp;fecha=25/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799582</id>
+    <updated>2026-09-25T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición matutina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799119&amp;fecha=18/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799119</id>
+    <updated>2026-09-18T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799118&amp;fecha=18/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799118</id>
+    <updated>2026-09-18T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799117&amp;fecha=18/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799117</id>
+    <updated>2026-09-18T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798739&amp;fecha=11/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798739</id>
+    <updated>2026-09-11T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798738&amp;fecha=11/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798738</id>
+    <updated>2026-09-11T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798737&amp;fecha=11/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798737</id>
+    <updated>2026-09-11T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>La ASEA somete a consulta pública Proyecto de Norma Oficial Mexicana sobre la distribución de Gas LP</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-somete-a-consulta-publica-proyecto-de-norma-oficial-mexicana-sobre-la-distribucion-de-gas-lp"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-la-asea-somete-a-consulta-publica-proyecto-de-norma-oficial-mexicana-sobre-la-distribucion-de-gas-lp</id>
+    <updated>2026-09-07T14:51:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-030-ASEA-2026, Distribución de Gas Licuado de Petróleo por medio de Auto- tanque y Vehículo de Reparto.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798063&amp;fecha=07/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798063</id>
+    <updated>2026-09-07T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>DOF, edición matutina. SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES. Petrolíferos. ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798039&amp;fecha=04/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798039</id>
+    <updated>2026-09-04T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798038&amp;fecha=04/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798038</id>
+    <updated>2026-09-04T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798037&amp;fecha=04/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798037</id>
+    <updated>2026-09-04T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>La Presidenta de México y el sector gasolinero renuevan la Estrategia Nacional para Estabilizar el Precio de la Gasolina Regular y el Diésel</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/la-presidenta-de-mexico-y-el-sector-gasolinero-renuevan-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-la-presidenta-de-mexico-y-el-sector-gasolinero-renuevan-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel</id>
+    <updated>2026-08-31T19:28:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>SENER en gob.mx. Artículo. Petrolíferos. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emiten los formatos de solicitud de permisos y bitácoras para la producción, importación, exportación, almacenamiento, transporte, comercialización, distribución y expendio al público de biocombustibles, autorizaciones y bitácoras para la producción de biocombustibles, así como de avisos de inicio de operaciones, modificaciones o suspensiones, cesiones y prórroga de dichos permisos y autorizaciones.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797477&amp;fecha=31/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797477</id>
+    <updated>2026-08-31T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Petrolíferos, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797459&amp;fecha=28/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797459</id>
+    <updated>2026-08-28T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797458&amp;fecha=28/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797458</id>
+    <updated>2026-08-28T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797457&amp;fecha=28/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797457</id>
+    <updated>2026-08-28T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>La CNE implementará un Programa de Registro temporal y excepcional para personas que almacenen petrolíferos para usos propios</title>
+    <link rel="alternate" href="https://www.gob.mx/cne/prensa/la-cne-implementara-un-programa-de-registro-temporal-y-excepcional-para-personas-que-almacenen-petroliferos-para-usos-propios"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-cne-prensa-la-cne-implementara-un-programa-de-registro-temporal-y-excepcional-para-personas-que-almacenen-petroliferos-para-usos-propios</id>
+    <updated>2026-08-26T14:26:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>CNE en gob.mx. Comunicado. Petrolíferos. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5796919&amp;fecha=21/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5796919</id>
+    <updated>2026-08-21T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5796918&amp;fecha=21/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5796918</id>
+    <updated>2026-08-21T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5796917&amp;fecha=21/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5796917</id>
+    <updated>2026-08-21T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Gobierno y Sector Gasolinero acuerdan renovar seis meses más la Estrategia Nacional para Estabilizar Precio de Gasolina Regular y Diésel</title>
+    <link rel="alternate" href="https://www.gob.mx/cne/prensa/gobierno-federal-y-sector-gasolinero-acuerdan-renovar-seis-meses-mas-estrategia-para-estabilizar-el-precio-de-la-gasolina-regular-y-diesel"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-cne-prensa-gobierno-federal-y-sector-gasolinero-acuerdan-renovar-seis-meses-mas-estrategia-para-estabilizar-el-precio-de-la-gasolina-regular-y-diesel</id>
+    <updated>2026-08-20T22:45:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>CNE en gob.mx. Comunicado. Petrolíferos. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Gobierno y Sector Gasolinero acuerdan renovar por seis meses más la Estrategia Nacional para Estabilizar Precio de Gasolina Regular y Diésel</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/gobierno-y-sector-gasolinero-acuerdan-renovar-por-seis-meses-mas-la-estrategia-nacional-para-estabilizar-precio-de-gasolina-regular-y-diesel"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-gobierno-y-sector-gasolinero-acuerdan-renovar-por-seis-meses-mas-la-estrategia-nacional-para-estabilizar-precio-de-gasolina-regular-y-diesel</id>
+    <updated>2026-08-20T22:10:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>SENER en gob.mx. Artículo. Petrolíferos. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Gobierno y Sector Gasolinero renuevan seis meses más la Estrategia Nacional para Estabilizar el Precio de la Gasolina Regular y el Diésel</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/gobierno-y-sector-gasolinero-renuevan-seis-meses-mas-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-gobierno-y-sector-gasolinero-renuevan-seis-meses-mas-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel</id>
+    <updated>2026-08-20T08:58:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
+</feed>

@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/11-11-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 15,
+    "items": []
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.6678,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/11-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1423.75,
+        "min": 445.44,
+        "max": 5284.44,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/11/2026/11/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1992.76,
+        "min": 502.59,
+        "max": 6811.13,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/11/2026/11/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 3784.57,
+        "min": 704.88,
+        "max": 9980.45,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/11/2026/11/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3878.11,
+        "min": 770.9,
+        "max": 10376.77,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/11/2026/11/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 795.83,
+        "min": 185.88,
+        "max": 4204.15,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/11/2026/11/11/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 562.37,
+        "min": 320.21,
+        "max": 1214.03,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/11/2026/11/11/JSON"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-27",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/27-08-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 18,
+    "items": [
+      {
+        "id": "dof-5797266",
+        "dof_id": 5797266,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Estatuto Orgánico del Instituto Mexicano del Petróleo.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5797266&fecha=27/08/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "petróleo*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-semarnat-y-asea-fortaleceran-vigilancia-ambiental-del-sector-hidrocarburos-433751",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "Semarnat y ASEA fortalecerán vigilancia ambiental del sector hidrocarburos",
+      "url": "https://www.gob.mx/asea/prensa/semarnat-y-asea-fortaleceran-vigilancia-ambiental-del-sector-hidrocarburos-433751",
+      "published": "2026-08-27T19:45:00-06:00",
+      "subsectors": [
+        "hidrocarburos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "hidrocarburo*",
+        "ASEA"
+      ]
+    },
+    {
+      "id": "gobmx-cne-documentos-sesion-del-mes-de-agosto-de-2026",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Sesión del mes de Agosto de 2026",
+      "url": "https://www.gob.mx/cne/documentos/sesion-del-mes-de-agosto-de-2026",
+      "published": "2026-08-27T16:18:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": []
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.966,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/27-08-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1678.52,
+        "min": 411.11,
+        "max": 3852.45,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/08/27/2026/08/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1693.99,
+        "min": 423.38,
+        "max": 3921.71,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/08/27/2026/08/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1706.75,
+        "min": 435.4,
+        "max": 3902.49,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/08/27/2026/08/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 5037.76,
+        "min": 478.09,
+        "max": 18896.38,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/08/27/2026/08/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1679.72,
+        "min": 301.62,
+        "max": 3847.41,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/08/27/2026/08/27/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 5997.3,
+        "min": 1196.25,
+        "max": 17517.79,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/08/27/2026/08/27/JSON"
+      }
+    ]
+  }
+}

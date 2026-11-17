@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/12-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 13,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-sener-articulos-mexico-consolida-la-recuperacion-del-sector-energetico-con-soberania-y-justicia-luz-elena-gonzalez-escobar",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "MÉXICO CONSOLIDA LA RECUPERACIÓN DEL SECTOR ENERGÉTICO CON SOBERANÍA Y JUSTICIA: LUZ ELENA GONZÁLEZ ESCOBAR",
+      "url": "https://www.gob.mx/sener/es/articulos/mexico-consolida-la-recuperacion-del-sector-energetico-con-soberania-y-justicia-luz-elena-gonzalez-escobar",
+      "published": "2026-11-12T15:15:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "energétic*"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.6192,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/12-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1160.62,
+        "min": 494.01,
+        "max": 3105.49,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/12/2026/11/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1621.13,
+        "min": 560.37,
+        "max": 4688.42,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/12/2026/11/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 3771.27,
+        "min": 807.04,
+        "max": 8916.98,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/12/2026/11/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3794.91,
+        "min": 839.12,
+        "max": 8890.97,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/12/2026/11/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 734.0,
+        "min": 92.95,
+        "max": 2332.17,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/12/2026/11/12/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 551.59,
+        "min": 340.15,
+        "max": 901.22,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/12/2026/11/12/JSON"
+      }
+    ]
+  }
+}

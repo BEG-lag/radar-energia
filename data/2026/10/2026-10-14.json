@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/14-10-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 18,
+    "items": [
+      {
+        "id": "dof-5801164",
+        "dof_id": 5801164,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo de la Comisión Nacional de Energía por el que se emiten las Disposiciones Administrativas de Carácter General por las que se establecen los criterios para la determinación de las vigencias de los títulos de permisos previstos en el artículo 11 del Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5801164&fecha=14/10/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "CNE"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "energía",
+          "Comisión Nacional de Energía"
+        ]
+      },
+      {
+        "id": "dof-5801172",
+        "dof_id": 5801172,
+        "edition": "matutina",
+        "issuer": "PETROLEOS MEXICANOS",
+        "title": "Acuerdo por el que se establecen acciones de simplificación al registro de proveedores de Petróleos Mexicanos a través de la Herramienta Integral de Información de Proveedores (HIIP).",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5801172&fecha=14/10/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "Pemex"
+        ],
+        "matched": [
+          "petróleo*",
+          "Petróleos Mexicanos"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.3528,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/14-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1069.52,
+        "min": 426.93,
+        "max": 2634.9,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/14/2026/10/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1223.28,
+        "min": 480.28,
+        "max": 2844.05,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/14/2026/10/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2320.88,
+        "min": 500.84,
+        "max": 5252.92,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/14/2026/10/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2552.78,
+        "min": 556.23,
+        "max": 6183.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/14/2026/10/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 503.5,
+        "min": 20.86,
+        "max": 2332.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/14/2026/10/14/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 379.42,
+        "min": 335.8,
+        "max": 430.31,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/14/2026/10/14/JSON"
+      }
+    ]
+  }
+}

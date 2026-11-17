@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/23-10-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 23,
+    "items": [
+      {
+        "id": "dof-5802082",
+        "dof_id": 5802082,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802082&fecha=23/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5802083",
+        "dof_id": 5802083,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802083&fecha=23/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5802084",
+        "dof_id": 5802084,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802084&fecha=23/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-documentos-acta-de-las-sesiones-del-mes-de-mayo-de-2026",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Acta de las Sesiones del mes de Mayo de 2026",
+      "url": "https://www.gob.mx/cne/documentos/acta-de-las-sesiones-del-mes-de-mayo-de-2026",
+      "published": "2026-10-23T16:28:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": []
+    },
+    {
+      "id": "gobmx-asea-prensa-la-asea-entrega-el-informe-de-resultados-del-analisis-de-beneficio-ambiental-neto-aban-del-estado-de-tamaulipas",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA entrega el Informe de Resultados del Análisis de Beneficio Ambiental Neto (ABAN) del Estado de Tamaulipas",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-entrega-el-informe-de-resultados-del-analisis-de-beneficio-ambiental-neto-aban-del-estado-de-tamaulipas",
+      "published": "2026-10-23T14:06:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.7005,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/23-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 538.63,
+        "min": 431.1,
+        "max": 701.22,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/23/2026/10/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 634.63,
+        "min": 454.71,
+        "max": 912.55,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/23/2026/10/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 957.57,
+        "min": 490.34,
+        "max": 1905.47,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/23/2026/10/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1025.61,
+        "min": 536.28,
+        "max": 1987.08,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/23/2026/10/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 370.84,
+        "min": 200.04,
+        "max": 570.52,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/23/2026/10/23/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 422.39,
+        "min": 374.14,
+        "max": 490.18,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/23/2026/10/23/JSON"
+      }
+    ]
+  }
+}

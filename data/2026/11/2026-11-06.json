@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/06-11-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 19,
+    "items": [
+      {
+        "id": "dof-5803257",
+        "dof_id": 5803257,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803257&fecha=06/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5803258",
+        "dof_id": 5803258,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803258&fecha=06/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5803259",
+        "dof_id": 5803259,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803259&fecha=06/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-documentos-sesion-del-mes-de-noviembre-de-2026",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Sesión del mes de Noviembre de 2026",
+      "url": "https://www.gob.mx/cne/documentos/sesion-del-mes-de-noviembre-de-2026",
+      "published": "2026-11-06T19:42:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": []
+    },
+    {
+      "id": "gobmx-cne-prensa-cne-aprueba-seis-permisos-para-proyectos-fotovoltaicos-en-la-segunda-convocatoria-impulsada-por-sener-en-apego-a-la-planeacion-vinculante",
+      "agency": "CNE",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "CNE aprueba seis permisos para proyectos fotovoltaicos en la Segunda Convocatoria impulsada por la SENER en apego a la Planeación Vinculante",
+      "url": "https://www.gob.mx/cne/prensa/cne-aprueba-seis-permisos-para-proyectos-fotovoltaicos-en-la-segunda-convocatoria-impulsada-por-sener-en-apego-a-la-planeacion-vinculante",
+      "published": "2026-11-06T12:25:00-06:00",
+      "subsectors": [
+        "renovables"
+      ],
+      "agencies": [
+        "CNE",
+        "SENER"
+      ],
+      "matched": [
+        "fotovoltaic*",
+        "SENER",
+        "CNE"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.7147,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/06-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 825.36,
+        "min": 323.11,
+        "max": 2119.58,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/06/2026/11/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1085.89,
+        "min": 410.96,
+        "max": 2409.61,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/06/2026/11/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2310.63,
+        "min": 424.83,
+        "max": 4811.71,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/06/2026/11/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2341.11,
+        "min": 451.48,
+        "max": 4796.45,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/06/2026/11/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 257.58,
+        "min": 20.99,
+        "max": 758.41,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/06/2026/11/06/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 501.1,
+        "min": 316.09,
+        "max": 848.09,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/06/2026/11/06/JSON"
+      }
+    ]
+  }
+}

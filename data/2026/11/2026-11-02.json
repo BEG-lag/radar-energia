@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/02-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 10,
+    "items": [
+      {
+        "id": "dof-5802719",
+        "dof_id": 5802719,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Acuerdo por el que se establecen acciones de simplificación para trámites que se realizan ante la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, así como se expiden y modifican los formatos que se mencionan.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802719&fecha=02/11/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 679.97,
+        "min": 340.9,
+        "max": 2267.56,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/02/2026/11/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 712.67,
+        "min": 356.25,
+        "max": 2384.98,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/02/2026/11/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 741.48,
+        "min": 374.41,
+        "max": 2461.3,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/02/2026/11/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2655.24,
+        "min": 395.01,
+        "max": 14979.65,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/02/2026/11/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 454.09,
+        "min": 192.34,
+        "max": 1403.91,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/02/2026/11/02/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 455.65,
+        "min": 325.02,
+        "max": 783.31,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/02/2026/11/02/JSON"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-07",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/07-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 20,
+    "items": [
+      {
+        "id": "dof-5798063",
+        "dof_id": 5798063,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-030-ASEA-2026, Distribución de Gas Licuado de Petróleo por medio de Auto- tanque y Vehículo de Reparto.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798063&fecha=07/09/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "gas licuado de petróleo",
+          "ASEA"
+        ]
+      },
+      {
+        "id": "dof-5798065",
+        "dof_id": 5798065,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que la Secretaría de Energía emite el Plan de Desarrollo del Sector Hidrocarburos.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798065&fecha=07/09/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "energía",
+          "Secretaría de Energía"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-inspectores-de-la-asea-realizaron-recorrido-de-verificacion-en-el-arroyo-la-gloria-en-veracruz",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "Inspectores de la ASEA realizaron recorrido de verificación en el \"Arroyo La Gloria\", en Veracruz",
+      "url": "https://www.gob.mx/asea/prensa/inspectores-de-la-asea-realizaron-recorrido-de-verificacion-en-el-arroyo-la-gloria-en-veracruz",
+      "published": "2026-09-07T21:09:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "ASEA"
+      ]
+    },
+    {
+      "id": "gobmx-asea-prensa-la-asea-somete-a-consulta-publica-proyecto-de-norma-oficial-mexicana-sobre-la-distribucion-de-gas-lp",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA somete a consulta pública Proyecto de Norma Oficial Mexicana sobre la distribución de Gas LP",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-somete-a-consulta-publica-proyecto-de-norma-oficial-mexicana-sobre-la-distribucion-de-gas-lp",
+      "published": "2026-09-07T14:51:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "gas LP",
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.8748,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/07-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1419.32,
+        "min": 463.54,
+        "max": 4951.75,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/07/2026/09/07/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1553.95,
+        "min": 514.74,
+        "max": 5074.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/07/2026/09/07/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2281.38,
+        "min": 680.79,
+        "max": 5192.95,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/07/2026/09/07/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2364.19,
+        "min": 723.35,
+        "max": 5347.98,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/07/2026/09/07/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 944.44,
+        "min": 212.06,
+        "max": 4903.46,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/07/2026/09/07/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 968.72,
+        "min": 387.77,
+        "max": 1918.62,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/07/2026/09/07/JSON"
+      }
+    ]
+  }
+}

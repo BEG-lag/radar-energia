@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-MX">
+  <title>radar·energía · Renovables</title>
+  <subtitle>Publicaciones oficiales clasificadas como renovables.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feeds/renovables.xml"/>
+  <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
+  <id>https://beg-lag.github.io/radar-energia/feeds/renovables.xml</id>
+  <updated>2026-11-06T12:25:00-06:00</updated>
+  <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
+  <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
+  <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>CNE aprueba seis permisos para proyectos fotovoltaicos en la Segunda Convocatoria impulsada por la SENER en apego a la Planeación Vinculante</title>
+    <link rel="alternate" href="https://www.gob.mx/cne/prensa/cne-aprueba-seis-permisos-para-proyectos-fotovoltaicos-en-la-segunda-convocatoria-impulsada-por-sener-en-apego-a-la-planeacion-vinculante"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-cne-prensa-cne-aprueba-seis-permisos-para-proyectos-fotovoltaicos-en-la-segunda-convocatoria-impulsada-por-sener-en-apego-a-la-planeacion-vinculante</id>
+    <updated>2026-11-06T12:25:00-06:00</updated>
+    <category term="renovables" label="Renovables"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>CNE en gob.mx. Comunicado. Renovables. CNE · SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emite la cuarta modificación a la Convocatoria para la atención de proyectos estratégicos de generación y almacenamiento de energía eléctrica, alineados a la planeación vinculante.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802463&amp;fecha=29/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802463</id>
+    <updated>2026-10-29T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Aviso por el que se da a conocer el Código de Conducta del Instituto Nacional de Electricidad y Energías Limpias.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802185&amp;fecha=27/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802185</id>
+    <updated>2026-10-27T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emite la tercera modificación a la Convocatoria para la Atención de Proyectos Estratégicos de Generación y Almacenamiento de Energía Eléctrica, alineados a la planeación vinculante.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797703&amp;fecha=02/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797703</id>
+    <updated>2026-09-02T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emiten los formatos de solicitud de permisos y bitácoras para la producción, importación, exportación, almacenamiento, transporte, comercialización, distribución y expendio al público de biocombustibles, autorizaciones y bitácoras para la producción de biocombustibles, así como de avisos de inicio de operaciones, modificaciones o suspensiones, cesiones y prórroga de dichos permisos y autorizaciones.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797477&amp;fecha=31/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797477</id>
+    <updated>2026-08-31T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Petrolíferos, Renovables. SENER.</summary>
+  </entry>
+</feed>

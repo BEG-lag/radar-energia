@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-14",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/14-09-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 18,
+    "items": [
+      {
+        "id": "dof-5798761",
+        "dof_id": 5798761,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-007-ENER-2026, Eficiencia energética para sistemas de alumbrado en edificios no residenciales.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798761&fecha=14/09/2026",
+        "subsectors": [
+          "general"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "energétic*"
+        ]
+      },
+      {
+        "id": "dof-5798762",
+        "dof_id": 5798762,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-013-ENER-2026, Eficiencia energética para sistemas de alumbrado en vialidades.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798762&fecha=14/09/2026",
+        "subsectors": [
+          "general"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "energétic*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-documentos-sesion-del-mes-de-septiembre-de-2026",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Sesión del mes de Septiembre de 2026",
+      "url": "https://www.gob.mx/cne/documentos/sesion-del-mes-de-septiembre-de-2026",
+      "published": "2026-09-14T11:24:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": []
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.9707,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/14-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1394.83,
+        "min": 411.97,
+        "max": 4457.4,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/14/2026/09/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1460.38,
+        "min": 441.47,
+        "max": 4521.3,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/14/2026/09/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1489.11,
+        "min": 450.13,
+        "max": 4383.98,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/14/2026/09/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1575.95,
+        "min": 480.0,
+        "max": 4645.69,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/14/2026/09/14/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1234.64,
+        "min": 275.37,
+        "max": 4437.97,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/14/2026/09/14/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 907.6,
+        "min": 445.37,
+        "max": 1542.8,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/14/2026/09/14/JSON"
+      }
+    ]
+  }
+}

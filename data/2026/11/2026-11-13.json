@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/13-11-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 22,
+    "items": [
+      {
+        "id": "dof-5803840",
+        "dof_id": 5803840,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803840&fecha=13/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5803841",
+        "dof_id": 5803841,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803841&fecha=13/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5803842",
+        "dof_id": 5803842,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803842&fecha=13/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.6188,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/13-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 643.12,
+        "min": 406.12,
+        "max": 1161.34,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/13/2026/11/13/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1089.06,
+        "min": 548.71,
+        "max": 2224.09,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/13/2026/11/13/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2242.65,
+        "min": 728.11,
+        "max": 4161.02,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/13/2026/11/13/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2316.07,
+        "min": 787.16,
+        "max": 4198.05,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/13/2026/11/13/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 398.65,
+        "min": 45.63,
+        "max": 927.33,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/13/2026/11/13/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 498.07,
+        "min": 382.59,
+        "max": 1193.67,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/13/2026/11/13/JSON"
+      }
+    ]
+  }
+}

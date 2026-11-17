@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "dof": null,
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-realiza-visita-de-inspeccion-en-el-rio-panuco",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA realiza visita de inspección en el río Pánuco",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-realiza-visita-de-inspeccion-en-el-rio-panuco",
+      "published": "2026-09-27T13:15:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 815.76,
+        "min": 385.63,
+        "max": 1543.39,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/27/2026/09/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 896.47,
+        "min": 387.08,
+        "max": 1713.47,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/27/2026/09/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1465.83,
+        "min": 420.35,
+        "max": 3226.01,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/27/2026/09/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1514.76,
+        "min": 443.07,
+        "max": 3241.68,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/27/2026/09/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 527.05,
+        "min": 195.39,
+        "max": 1288.82,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/27/2026/09/27/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 520.39,
+        "min": 380.09,
+        "max": 1222.19,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/27/2026/09/27/JSON"
+      }
+    ]
+  }
+}

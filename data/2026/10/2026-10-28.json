@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/28-10-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 16,
+    "items": [
+      {
+        "id": "dof-5802362",
+        "dof_id": 5802362,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que la Secretaría de Energía emite los Lineamientos para la aprobación, actualización y vigilancia de los Organismos de Evaluación de la Conformidad que evalúan la conformidad de las Normas Oficiales Mexicanas que regulan las especificaciones de calidad de los Hidrocarburos, Petrolíferos y Petroquímicos y del registro de los laboratorios extranjeros que emitan documentos equivalentes a las Normas Oficiales Mexicanas que regulan las especificaciones de calidad.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802362&fecha=28/10/2026",
+        "subsectors": [
+          "hidrocarburos",
+          "petroliferos"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "petrolífero*",
+          "petroquímic*",
+          "energía",
+          "Secretaría de Energía"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.6525,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/28-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 642.58,
+        "min": 370.07,
+        "max": 1601.53,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/28/2026/10/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 839.27,
+        "min": 477.46,
+        "max": 1879.05,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/28/2026/10/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1104.99,
+        "min": 633.0,
+        "max": 1898.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/28/2026/10/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1101.0,
+        "min": 663.62,
+        "max": 1866.16,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/28/2026/10/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 156.74,
+        "min": 5.31,
+        "max": 346.86,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/28/2026/10/28/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 355.78,
+        "min": 91.78,
+        "max": 574.43,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/28/2026/10/28/JSON"
+      }
+    ]
+  }
+}

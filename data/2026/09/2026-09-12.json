@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-12",
+  "dof": null,
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-realizo-visita-de-inspeccion-en-el-golfo-de-mexico-para-verificar-las-medidas-de-atencion-al-derrame-de-hidrocarburos",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA realizó visita de inspección en el Golfo de México para verificar las medidas de atención al derrame de hidrocarburos",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-realizo-visita-de-inspeccion-en-el-golfo-de-mexico-para-verificar-las-medidas-de-atencion-al-derrame-de-hidrocarburos",
+      "published": "2026-09-12T12:34:00-06:00",
+      "subsectors": [
+        "hidrocarburos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "hidrocarburo*",
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 987.6,
+        "min": 391.17,
+        "max": 2840.37,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/12/2026/09/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1101.57,
+        "min": 425.3,
+        "max": 3026.96,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/12/2026/09/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1706.87,
+        "min": 447.08,
+        "max": 3917.89,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/12/2026/09/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2645.09,
+        "min": 489.24,
+        "max": 9070.07,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/12/2026/09/12/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 758.18,
+        "min": 274.58,
+        "max": 2779.58,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/12/2026/09/12/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 1410.82,
+        "min": 765.36,
+        "max": 5092.43,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/12/2026/09/12/JSON"
+      }
+    ]
+  }
+}

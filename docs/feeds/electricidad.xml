@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-MX">
+  <title>radar·energía · Electricidad</title>
+  <subtitle>Publicaciones oficiales clasificadas como electricidad.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feeds/electricidad.xml"/>
+  <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
+  <id>https://beg-lag.github.io/radar-energia/feeds/electricidad.xml</id>
+  <updated>2026-11-04T13:04:00-06:00</updated>
+  <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
+  <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
+  <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>La generación distribuida en México supera los 5.6 GW de capacidad instalada al cierre del primer semestre de 2026</title>
+    <link rel="alternate" href="https://www.gob.mx/cne/prensa/la-generacion-distribuida-en-mexico-supera-los-5-6-gw-de-capacidad-instalada-al-cierre-del-primer-semestre-de-2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-cne-prensa-la-generacion-distribuida-en-mexico-supera-los-5-6-gw-de-capacidad-instalada-al-cierre-del-primer-semestre-de-2026</id>
+    <updated>2026-11-04T13:04:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>CNE en gob.mx. Comunicado. Electricidad. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emite la cuarta modificación a la Convocatoria para la atención de proyectos estratégicos de generación y almacenamiento de energía eléctrica, alineados a la planeación vinculante.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802463&amp;fecha=29/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802463</id>
+    <updated>2026-10-29T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de octubre de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802191&amp;fecha=27/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802191</id>
+    <updated>2026-10-27T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Aviso por el que se da a conocer el Código de Conducta del Instituto Nacional de Electricidad y Energías Limpias.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802185&amp;fecha=27/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5802185</id>
+    <updated>2026-10-27T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Código de Conducta de la Comisión Federal de Electricidad y sus Empresas Filiales.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5801555&amp;fecha=20/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5801555</id>
+    <updated>2026-10-20T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Código de Ética de las personas servidoras públicas de la Comisión Federal de Electricidad y personas empleadas de las Empresas Filiales.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5801554&amp;fecha=20/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5801554</id>
+    <updated>2026-10-20T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Garantiza Pemex abasto de combustibles y CFE restablece suministro eléctrico tras el paso del huracán Simon</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon</id>
+    <updated>2026-10-11T21:11:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <category term="Pemex" label="Petróleos Mexicanos"/>
+    <summary>SENER en gob.mx. Artículo. Electricidad, Hidrocarburos, Petrolíferos. SENER · CFE · Pemex.</summary>
+  </entry>
+  <entry>
+    <title>Modificaciones al Estatuto Orgánico de la Empresa Pública del Estado, Comisión Federal de Electricidad.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800855&amp;fecha=09/10/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800855</id>
+    <updated>2026-10-09T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>CFE AFIANZA LA RELACIÓN CON EL MERCADO CON SU PRIMER ENCUENTRO CON INVERSIONISTAS</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/cfe-afianza-la-relacion-con-el-mercado-con-su-primer-encuentro-con-inversionistas"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-cfe-afianza-la-relacion-con-el-mercado-con-su-primer-encuentro-con-inversionistas</id>
+    <updated>2026-10-01T10:42:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>SENER en gob.mx. Artículo. Electricidad. SENER · CFE.</summary>
+  </entry>
+  <entry>
+    <title>Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de septiembre de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5800039&amp;fecha=30/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5800039</id>
+    <updated>2026-09-30T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición vespertina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo de la Comisión Nacional de Energía por el que se modifica el diverso por el que se emite la metodología para la determinación del cargo correspondiente al servicio de transmisión de energía eléctrica que preste la Suministradora a las Personas Permisionarias con centrales de generación de energía eléctrica, que cuenten con contrato de interconexión y convenio para el servicio de transmisión de energía eléctrica celebrados al amparo de la Ley del Servicio Público de Energía Eléctrica, publicado el 18 de junio de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799964&amp;fecha=30/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799964</id>
+    <updated>2026-09-30T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CNE" label="Comisión Nacional de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad. CNE.</summary>
+  </entry>
+  <entry>
+    <title>Políticas que regulan los supuestos en que la Comisión Federal de Electricidad se abstendrá de considerar ofertas o celebrar contratos en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5799057&amp;fecha=18/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5799057</id>
+    <updated>2026-09-18T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emite la cuarta modificación a la Segunda Convocatoria para la atención prioritaria de solicitudes de permisos de generación de energía eléctrica e interconexión al Sistema Eléctrico Nacional, alineados a la planeación vinculante.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798361&amp;fecha=10/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798361</id>
+    <updated>2026-09-10T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, a las demarcaciones territoriales de la Ciudad de México, así como a los entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Simec Servicios de Ingeniería, Mecánica, Eléctrica y Civil, S.A. de C.V.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798266&amp;fecha=09/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798266</id>
+    <updated>2026-09-09T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <summary>DOF, edición matutina. SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO. Electricidad.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se modifican, eliminan y adicionan diversas disposiciones de los Lineamientos para la migración voluntaria y expedita de autoabastecimiento y cogeneración de energía eléctrica a las figuras previstas en la Ley del Sector Eléctrico.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798117&amp;fecha=08/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798117</id>
+    <updated>2026-09-08T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se emite la tercera modificación a la Convocatoria para la Atención de Proyectos Estratégicos de Generación y Almacenamiento de Energía Eléctrica, alineados a la planeación vinculante.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797703&amp;fecha=02/09/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797703</id>
+    <updated>2026-09-02T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="renovables" label="Renovables"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad, Renovables. SENER.</summary>
+  </entry>
+  <entry>
+    <title>Decreto por el que se expropia por causa de utilidad pública la superficie de 19- 74-73 hectáreas del ejido "Polyuc", municipio de Felipe Carrillo Puerto, estado de Quintana Roo, a favor de Tren Maya, S.A. de C.V., y de la Comisión Federal de Electricidad.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797557&amp;fecha=31/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797557</id>
+    <updated>2026-08-31T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición vespertina. PRESIDENCIA DE LA REPUBLICA. Electricidad. CFE.</summary>
+  </entry>
+  <entry>
+    <title>Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de agosto de 2026.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5797487&amp;fecha=31/08/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5797487</id>
+    <updated>2026-08-31T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <category term="CFE" label="Comisión Federal de Electricidad"/>
+    <summary>DOF, edición matutina. COMISION FEDERAL DE ELECTRICIDAD. Electricidad. CFE.</summary>
+  </entry>
+</feed>

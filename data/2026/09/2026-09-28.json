@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-28",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/28-09-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 19,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-documentos-listado_de_notificaciones_04052026-425652",
+      "agency": "ASEA",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Listado de Notificaciones",
+      "url": "https://www.gob.mx/asea/documentos/listado_de_notificaciones_04052026-425652",
+      "published": "2026-09-28T14:07:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": []
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 17.71,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/28-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1053.98,
+        "min": 488.82,
+        "max": 3064.28,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/28/2026/09/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1121.85,
+        "min": 523.14,
+        "max": 3294.86,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/28/2026/09/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1766.76,
+        "min": 573.67,
+        "max": 4033.82,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/28/2026/09/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1806.85,
+        "min": 615.82,
+        "max": 4153.54,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/28/2026/09/28/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 450.66,
+        "min": 239.88,
+        "max": 1169.65,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/28/2026/09/28/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 706.41,
+        "min": 381.86,
+        "max": 1179.03,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/28/2026/09/28/JSON"
+      }
+    ]
+  }
+}

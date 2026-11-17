@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-24",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/24-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 18,
+    "items": [
+      {
+        "id": "dof-5799459",
+        "dof_id": 5799459,
+        "edition": "matutina",
+        "issuer": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO",
+        "title": "Manual de integración y funcionamiento del Comité Interno de Eficiencia Energética del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799459&fecha=24/09/2026",
+        "subsectors": [
+          "general"
+        ],
+        "agencies": [],
+        "matched": [
+          "energétic*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-asea-informa-sobre-autorizacion-ambiental-del-proyecto-lng-amigo-en-sonora",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "ASEA informa sobre autorización ambiental del Proyecto LNG Amigo en Sonora",
+      "url": "https://www.gob.mx/asea/prensa/asea-informa-sobre-autorizacion-ambiental-del-proyecto-lng-amigo-en-sonora",
+      "published": "2026-09-24T07:00:00-06:00",
+      "subsectors": [
+        "gas-natural"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "LNG",
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 17.503,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/24-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1129.48,
+        "min": 432.18,
+        "max": 3536.23,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/24/2026/09/24/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1219.0,
+        "min": 461.07,
+        "max": 3727.05,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/24/2026/09/24/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1372.77,
+        "min": 480.18,
+        "max": 3757.74,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/24/2026/09/24/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1431.5,
+        "min": 496.39,
+        "max": 3858.11,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/24/2026/09/24/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 764.44,
+        "min": 280.61,
+        "max": 3387.69,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/24/2026/09/24/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 703.83,
+        "min": 374.32,
+        "max": 1222.57,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/24/2026/09/24/JSON"
+      }
+    ]
+  }
+}

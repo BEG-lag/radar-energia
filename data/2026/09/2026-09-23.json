@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/23-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 14,
+    "items": [
+      {
+        "id": "dof-5799357",
+        "dof_id": 5799357,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MARINA",
+        "title": "Primera Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Compañía Minera Caopas, S.A. de C.V., para usar y aprovechar una zona federal terrestre y una zona federal marítima en el lugar denominado Punta Santa María, jurisdicción del recinto portuario de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799357&fecha=23/09/2026",
+        "subsectors": [
+          "mineria"
+        ],
+        "agencies": [],
+        "matched": [
+          "minera"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 17.3015,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/23-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1693.78,
+        "min": 455.2,
+        "max": 3849.54,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/23/2026/09/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1759.05,
+        "min": 482.99,
+        "max": 3983.86,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/23/2026/09/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1996.54,
+        "min": 510.75,
+        "max": 4147.5,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/23/2026/09/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2091.63,
+        "min": 545.52,
+        "max": 4356.93,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/23/2026/09/23/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1257.89,
+        "min": 279.29,
+        "max": 3696.65,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/23/2026/09/23/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 693.01,
+        "min": 390.59,
+        "max": 1220.49,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/23/2026/09/23/JSON"
+      }
+    ]
+  }
+}

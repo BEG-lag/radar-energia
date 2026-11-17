@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-02",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/02-10-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 21,
+    "items": [
+      {
+        "id": "dof-5800169",
+        "dof_id": 5800169,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Norma Oficial Mexicana de Emergencia NOM-EM-008-ASEA- 2026, Transporte de Gas Licuado de Petróleo por medio de Auto-tanque y Semirremolque.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800169&fecha=02/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "gas licuado de petróleo",
+          "ASEA"
+        ]
+      },
+      {
+        "id": "dof-5800257",
+        "dof_id": 5800257,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800257&fecha=02/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5800258",
+        "dof_id": 5800258,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800258&fecha=02/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5800259",
+        "dof_id": 5800259,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800259&fecha=02/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-publica-la-nom-em-008-asea-2026-para-el-transporte-de-gas-l-p-por-auto-tanque-y-semirremolque",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA publica la NOM-EM-008-ASEA-2026 para el transporte de Gas L.P. por auto-tanque y semirremolque",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-publica-la-nom-em-008-asea-2026-para-el-transporte-de-gas-l-p-por-auto-tanque-y-semirremolque",
+      "published": "2026-10-02T13:55:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "gas L.P.",
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.3688,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/02-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1507.81,
+        "min": 659.54,
+        "max": 2757.78,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/02/2026/10/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1651.68,
+        "min": 740.13,
+        "max": 3003.22,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/02/2026/10/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2492.8,
+        "min": 784.74,
+        "max": 4279.15,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/02/2026/10/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3164.43,
+        "min": 872.58,
+        "max": 4485.09,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/02/2026/10/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 320.71,
+        "min": 111.93,
+        "max": 687.58,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/02/2026/10/02/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 1168.87,
+        "min": 455.64,
+        "max": 2575.97,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/02/2026/10/02/JSON"
+      }
+    ]
+  }
+}

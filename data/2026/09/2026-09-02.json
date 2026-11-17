@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-02",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/02-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 24,
+    "items": [
+      {
+        "id": "dof-5797703",
+        "dof_id": 5797703,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que se emite la tercera modificación a la Convocatoria para la Atención de Proyectos Estratégicos de Generación y Almacenamiento de Energía Eléctrica, alineados a la planeación vinculante.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5797703&fecha=02/09/2026",
+        "subsectors": [
+          "electricidad",
+          "renovables"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "eléctric*",
+          "almacenamiento de energía",
+          "energía"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-sener-articulos-cce-propone-pasar-del-dialogo-a-los-proyectos-de-energia-que-detonen-el-desarrollo-economico-de-mexico",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "CCE propone pasar del diálogo a los proyectos de energía que detonen el desarrollo económico de México",
+      "url": "https://www.gob.mx/sener/es/articulos/cce-propone-pasar-del-dialogo-a-los-proyectos-de-energia-que-detonen-el-desarrollo-economico-de-mexico",
+      "published": "2026-09-02T20:45:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "energía"
+      ]
+    },
+    {
+      "id": "gobmx-cne-documentos-convocatoria-del-mecanismo-de-asignacion-de-capacidad-para-gcc-gasoductos-s-a-de-c-v-sistema-gcc",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Convocatoria del Mecanismo de Asignación de Capacidad para GCC Gasoductos, S. A. de C. V., (Sistema GCC)",
+      "url": "https://www.gob.mx/cne/documentos/convocatoria-del-mecanismo-de-asignacion-de-capacidad-para-gcc-gasoductos-s-a-de-c-v-sistema-gcc",
+      "published": "2026-09-02T00:01:00-06:00",
+      "subsectors": [
+        "gas-natural"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": [
+        "gasoducto*"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.9755,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/02-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 2042.94,
+        "min": 455.8,
+        "max": 5536.93,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/02/2026/09/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 2142.28,
+        "min": 482.35,
+        "max": 6078.89,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/02/2026/09/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2525.7,
+        "min": 502.55,
+        "max": 6026.66,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/02/2026/09/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3429.82,
+        "min": 572.27,
+        "max": 11013.71,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/02/2026/09/02/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1463.99,
+        "min": 284.31,
+        "max": 4264.82,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/02/2026/09/02/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 1109.67,
+        "min": 571.87,
+        "max": 2011.19,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/02/2026/09/02/JSON"
+      }
+    ]
+  }
+}

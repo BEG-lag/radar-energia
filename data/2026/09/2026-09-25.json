@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-25",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/25-09-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 28,
+    "items": [
+      {
+        "id": "dof-5799582",
+        "dof_id": 5799582,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de octubre de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799582&fecha=25/09/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*",
+          "diésel",
+          "diesel"
+        ]
+      },
+      {
+        "id": "dof-5799602",
+        "dof_id": 5799602,
+        "edition": "matutina",
+        "issuer": "PETROLEOS MEXICANOS",
+        "title": "Estatuto Orgánico de la Empresa Pública del Estado, Petróleos Mexicanos.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799602&fecha=25/09/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "Pemex"
+        ],
+        "matched": [
+          "petróleo*",
+          "Petróleos Mexicanos"
+        ]
+      },
+      {
+        "id": "dof-5799679",
+        "dof_id": 5799679,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799679&fecha=25/09/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5799680",
+        "dof_id": 5799680,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799680&fecha=25/09/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5799681",
+        "dof_id": 5799681,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5799681&fecha=25/09/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-y-la-red-conocer-certifican-a-691-operadores-de-pipas-de-gas-lp-a-traves-de-estandares-de-competencia",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA y la RED CONOCER certifican a 691 operadores de pipas de gas LP a través de Estándares de Competencia",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-y-la-red-conocer-certifican-a-691-operadores-de-pipas-de-gas-lp-a-traves-de-estandares-de-competencia",
+      "published": "2026-09-25T10:14:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "gas LP",
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 17.6425,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/25-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1213.44,
+        "min": 476.74,
+        "max": 2574.34,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/25/2026/09/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1312.93,
+        "min": 484.13,
+        "max": 2807.62,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/25/2026/09/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1440.09,
+        "min": 514.42,
+        "max": 2792.8,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/25/2026/09/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1485.35,
+        "min": 513.58,
+        "max": 2881.37,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/25/2026/09/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 438.08,
+        "min": 186.6,
+        "max": 995.18,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/25/2026/09/25/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 748.77,
+        "min": 363.02,
+        "max": 1399.01,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/25/2026/09/25/JSON"
+      }
+    ]
+  }
+}

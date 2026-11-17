@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/27-10-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 17,
+    "items": [
+      {
+        "id": "dof-5802182",
+        "dof_id": 5802182,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Acuerdo por el que se delega en las Direcciones de Área, adscritas a las Direcciones Generales de la Unidad de Gestión Industrial y de la Unidad de Supervisión, Inspección y Vigilancia Industrial, de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, el ejercicio de las facultades que se indican.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802182&fecha=27/10/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos"
+        ]
+      },
+      {
+        "id": "dof-5802184",
+        "dof_id": 5802184,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo de la Comisión Nacional de Energía por el que se inicia el procedimiento administrativo de caducidad a los titulares de ciento treinta y dos permisos de comercialización de hidrocarburos, petrolíferos y petroquímicos, por presuntamente ubicarse en la hipótesis de caducidad prevista en el artículo 88, fracción I, inciso b, de la Ley del Sector Hidrocarburos.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802184&fecha=27/10/2026",
+        "subsectors": [
+          "hidrocarburos",
+          "petroliferos"
+        ],
+        "agencies": [
+          "CNE"
+        ],
+        "matched": [
+          "hidrocarburo*",
+          "petrolífero*",
+          "petroquímic*",
+          "energía",
+          "Comisión Nacional de Energía"
+        ]
+      },
+      {
+        "id": "dof-5802185",
+        "dof_id": 5802185,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Aviso por el que se da a conocer el Código de Conducta del Instituto Nacional de Electricidad y Energías Limpias.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802185&fecha=27/10/2026",
+        "subsectors": [
+          "electricidad",
+          "renovables"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "eléctric*",
+          "electricidad",
+          "energías limpias",
+          "energías"
+        ]
+      },
+      {
+        "id": "dof-5802191",
+        "dof_id": 5802191,
+        "edition": "matutina",
+        "issuer": "COMISION FEDERAL DE ELECTRICIDAD",
+        "title": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de octubre de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5802191&fecha=27/10/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "CFE"
+        ],
+        "matched": [
+          "eléctric*",
+          "electricidad",
+          "suministro básico",
+          "Comisión Federal de Electricidad"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.5798,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/27-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 639.45,
+        "min": 378.15,
+        "max": 1553.6,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/27/2026/10/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 961.78,
+        "min": 437.73,
+        "max": 2451.69,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/27/2026/10/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1316.33,
+        "min": 454.65,
+        "max": 3417.3,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/27/2026/10/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1268.69,
+        "min": 442.73,
+        "max": 3244.51,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/27/2026/10/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 256.02,
+        "min": 16.25,
+        "max": 576.5,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/27/2026/10/27/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 529.69,
+        "min": 345.19,
+        "max": 1298.71,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/27/2026/10/27/JSON"
+      }
+    ]
+  }
+}

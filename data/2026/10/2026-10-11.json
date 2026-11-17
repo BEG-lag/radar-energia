@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-11",
+  "dof": null,
+  "authorities": [
+    {
+      "id": "gobmx-sener-articulos-garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "Garantiza Pemex abasto de combustibles y CFE restablece suministro eléctrico tras el paso del huracán Simon",
+      "url": "https://www.gob.mx/sener/es/articulos/garantiza-pemex-abasto-de-combustibles-y-cfe-restablece-suministro-electrico-tras-el-paso-del-huracan-simon",
+      "published": "2026-10-11T21:11:00-06:00",
+      "subsectors": [
+        "electricidad",
+        "hidrocarburos",
+        "petroliferos"
+      ],
+      "agencies": [
+        "SENER",
+        "CFE",
+        "Pemex"
+      ],
+      "matched": [
+        "eléctric*",
+        "CFE",
+        "Pemex",
+        "combustible*"
+      ]
+    }
+  ],
+  "markets": {
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 487.95,
+        "min": 360.96,
+        "max": 773.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/11/2026/10/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 585.87,
+        "min": 368.49,
+        "max": 1142.5,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/11/2026/10/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1532.36,
+        "min": 417.87,
+        "max": 4081.7,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/11/2026/10/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1830.48,
+        "min": 459.49,
+        "max": 4191.92,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/11/2026/10/11/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 371.25,
+        "min": 207.25,
+        "max": 599.74,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/11/2026/10/11/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 429.83,
+        "min": 372.98,
+        "max": 562.58,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/11/2026/10/11/JSON"
+      }
+    ]
+  }
+}

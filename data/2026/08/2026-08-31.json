@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-31",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/31-08-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 20,
+    "items": [
+      {
+        "id": "dof-5797477",
+        "dof_id": 5797477,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo por el que se emiten los formatos de solicitud de permisos y bitácoras para la producción, importación, exportación, almacenamiento, transporte, comercialización, distribución y expendio al público de biocombustibles, autorizaciones y bitácoras para la producción de biocombustibles, así como de avisos de inicio de operaciones, modificaciones o suspensiones, cesiones y prórroga de dichos permisos y autorizaciones.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5797477&fecha=31/08/2026",
+        "subsectors": [
+          "petroliferos",
+          "renovables"
+        ],
+        "agencies": [
+          "SENER"
+        ],
+        "matched": [
+          "expendio al público",
+          "biocombustible*"
+        ]
+      },
+      {
+        "id": "dof-5797487",
+        "dof_id": 5797487,
+        "edition": "matutina",
+        "issuer": "COMISION FEDERAL DE ELECTRICIDAD",
+        "title": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de agosto de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5797487&fecha=31/08/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "CFE"
+        ],
+        "matched": [
+          "eléctric*",
+          "electricidad",
+          "suministro básico",
+          "Comisión Federal de Electricidad"
+        ]
+      },
+      {
+        "id": "dof-5797557",
+        "dof_id": 5797557,
+        "edition": "vespertina",
+        "issuer": "PRESIDENCIA DE LA REPUBLICA",
+        "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 19- 74-73 hectáreas del ejido \"Polyuc\", municipio de Felipe Carrillo Puerto, estado de Quintana Roo, a favor de Tren Maya, S.A. de C.V., y de la Comisión Federal de Electricidad.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5797557&fecha=31/08/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [
+          "CFE"
+        ],
+        "matched": [
+          "eléctric*",
+          "electricidad",
+          "Comisión Federal de Electricidad"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-sener-articulos-la-presidenta-de-mexico-y-el-sector-gasolinero-renuevan-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "La Presidenta de México y el sector gasolinero renuevan la Estrategia Nacional para Estabilizar el Precio de la Gasolina Regular y el Diésel",
+      "url": "https://www.gob.mx/sener/es/articulos/la-presidenta-de-mexico-y-el-sector-gasolinero-renuevan-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel",
+      "published": "2026-08-31T19:28:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "gasolina*",
+        "diésel",
+        "diesel"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 17.0427,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/31-08-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1590.09,
+        "min": 421.26,
+        "max": 3766.67,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/08/31/2026/08/31/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1680.9,
+        "min": 431.72,
+        "max": 3951.16,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/08/31/2026/08/31/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1688.38,
+        "min": 387.46,
+        "max": 3891.29,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/08/31/2026/08/31/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2633.03,
+        "min": 557.36,
+        "max": 4243.64,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/08/31/2026/08/31/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1371.16,
+        "min": 313.79,
+        "max": 3936.39,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/08/31/2026/08/31/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 2604.79,
+        "min": 762.7,
+        "max": 11765.7,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/08/31/2026/08/31/JSON"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-20",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/20-08-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 21,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-prensa-gobierno-federal-y-sector-gasolinero-acuerdan-renovar-seis-meses-mas-estrategia-para-estabilizar-el-precio-de-la-gasolina-regular-y-diesel",
+      "agency": "CNE",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "Gobierno y Sector Gasolinero acuerdan renovar seis meses más la Estrategia Nacional para Estabilizar Precio de Gasolina Regular y Diésel",
+      "url": "https://www.gob.mx/cne/prensa/gobierno-federal-y-sector-gasolinero-acuerdan-renovar-seis-meses-mas-estrategia-para-estabilizar-el-precio-de-la-gasolina-regular-y-diesel",
+      "published": "2026-08-20T22:45:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": [
+        "gasolina*",
+        "diésel",
+        "diesel"
+      ]
+    },
+    {
+      "id": "gobmx-sener-articulos-gobierno-y-sector-gasolinero-acuerdan-renovar-por-seis-meses-mas-la-estrategia-nacional-para-estabilizar-precio-de-gasolina-regular-y-diesel",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "Gobierno y Sector Gasolinero acuerdan renovar por seis meses más la Estrategia Nacional para Estabilizar Precio de Gasolina Regular y Diésel",
+      "url": "https://www.gob.mx/sener/es/articulos/gobierno-y-sector-gasolinero-acuerdan-renovar-por-seis-meses-mas-la-estrategia-nacional-para-estabilizar-precio-de-gasolina-regular-y-diesel",
+      "published": "2026-08-20T22:10:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "gasolina*",
+        "diésel",
+        "diesel"
+      ]
+    },
+    {
+      "id": "gobmx-asea-prensa-gobierno-y-sector-gasolinero-renuevan-seis-meses-mas-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "Gobierno y Sector Gasolinero renuevan seis meses más la Estrategia Nacional para Estabilizar el Precio de la Gasolina Regular y el Diésel",
+      "url": "https://www.gob.mx/asea/prensa/gobierno-y-sector-gasolinero-renuevan-seis-meses-mas-la-estrategia-nacional-para-estabilizar-el-precio-de-la-gasolina-regular-y-el-diesel",
+      "published": "2026-08-20T08:58:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "gasolina*",
+        "diésel",
+        "diesel"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.9593,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/20-08-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 683.72,
+        "min": 394.97,
+        "max": 1684.36,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/08/20/2026/08/20/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 717.64,
+        "min": 420.75,
+        "max": 1700.27,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/08/20/2026/08/20/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 764.27,
+        "min": 437.08,
+        "max": 1678.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/08/20/2026/08/20/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1391.73,
+        "min": 489.78,
+        "max": 5045.98,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/08/20/2026/08/20/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 662.28,
+        "min": 313.81,
+        "max": 1838.67,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/08/20/2026/08/20/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 2091.94,
+        "min": 935.58,
+        "max": 3694.11,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/08/20/2026/08/20/JSON"
+      }
+    ]
+  }
+}

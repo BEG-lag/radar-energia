@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-06",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/06-10-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 24,
+    "items": [
+      {
+        "id": "dof-5800389",
+        "dof_id": 5800389,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ECONOMIA",
+        "title": "Listado del Registro de Peritos Mineros vigentes, suspendidos y cancelados (01/2026).",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800389&fecha=06/10/2026",
+        "subsectors": [
+          "mineria"
+        ],
+        "agencies": [],
+        "matched": [
+          "mineros"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.1343,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/06-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 770.3,
+        "min": 451.39,
+        "max": 2481.25,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/06/2026/10/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1152.94,
+        "min": 575.89,
+        "max": 2825.53,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/06/2026/10/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 3877.62,
+        "min": 1063.28,
+        "max": 5830.44,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/06/2026/10/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 4161.48,
+        "min": 2602.2,
+        "max": 5725.92,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/06/2026/10/06/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 514.54,
+        "min": 235.08,
+        "max": 2438.15,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/06/2026/10/06/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 3635.71,
+        "min": 773.0,
+        "max": 14591.22,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/06/2026/10/06/JSON"
+      }
+    ]
+  }
+}

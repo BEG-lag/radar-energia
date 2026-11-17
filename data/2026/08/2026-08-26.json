@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-26",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/26-08-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 24,
+    "items": []
+  },
+  "authorities": [
+    {
+      "id": "gobmx-cne-prensa-la-cne-implementara-un-programa-de-registro-temporal-y-excepcional-para-personas-que-almacenen-petroliferos-para-usos-propios",
+      "agency": "CNE",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La CNE implementará un Programa de Registro temporal y excepcional para personas que almacenen petrolíferos para usos propios",
+      "url": "https://www.gob.mx/cne/prensa/la-cne-implementara-un-programa-de-registro-temporal-y-excepcional-para-personas-que-almacenen-petroliferos-para-usos-propios",
+      "published": "2026-08-26T14:26:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": [
+        "petrolífero*",
+        "CNE"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.946,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/26-08-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1079.41,
+        "min": 409.81,
+        "max": 3001.17,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/08/26/2026/08/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1178.53,
+        "min": 428.93,
+        "max": 3486.49,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/08/26/2026/08/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1140.41,
+        "min": 440.69,
+        "max": 3233.48,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/08/26/2026/08/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1993.61,
+        "min": 482.58,
+        "max": 9686.56,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/08/26/2026/08/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1285.76,
+        "min": 308.82,
+        "max": 4646.67,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/08/26/2026/08/26/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 3185.07,
+        "min": 1059.86,
+        "max": 6952.79,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/08/26/2026/08/26/JSON"
+      }
+    ]
+  }
+}

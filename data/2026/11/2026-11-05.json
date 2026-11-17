@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/05-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 11,
+    "items": [
+      {
+        "id": "dof-5803022",
+        "dof_id": 5803022,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ENERGIA",
+        "title": "Acuerdo de la Comisión Nacional de Energía por el que se expiden las Disposiciones Administrativas de Carácter General que regulan la actividad de comercialización de gas natural, petrolíferos, gas licuado de petróleo y petroquímicos.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5803022&fecha=05/11/2026",
+        "subsectors": [
+          "gas-natural",
+          "petroliferos"
+        ],
+        "agencies": [
+          "CNE"
+        ],
+        "matched": [
+          "gas natural",
+          "petrolífero*",
+          "petroquímic*",
+          "gas licuado de petróleo",
+          "energía",
+          "Comisión Nacional de Energía"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.6285,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/05-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 655.45,
+        "min": 287.9,
+        "max": 1980.64,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/05/2026/11/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1020.73,
+        "min": 353.92,
+        "max": 3176.66,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/05/2026/11/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2360.54,
+        "min": 391.08,
+        "max": 5982.32,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/05/2026/11/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 3064.31,
+        "min": 979.36,
+        "max": 6118.69,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/05/2026/11/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 286.3,
+        "min": 7.95,
+        "max": 1572.51,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/05/2026/11/05/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 396.59,
+        "min": 321.74,
+        "max": 507.25,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/05/2026/11/05/JSON"
+      }
+    ]
+  }
+}

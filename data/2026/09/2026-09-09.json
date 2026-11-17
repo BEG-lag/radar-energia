@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-09",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/09-09-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 16,
+    "items": [
+      {
+        "id": "dof-5798261",
+        "dof_id": 5798261,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Norma Oficial Mexicana NOM-157-SEMARNAT-2026, Que establece los elementos y procedimientos para instrumentar planes de manejo de residuos mineros.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798261&fecha=09/09/2026",
+        "subsectors": [
+          "mineria"
+        ],
+        "agencies": [],
+        "matched": [
+          "mineros"
+        ]
+      },
+      {
+        "id": "dof-5798266",
+        "dof_id": 5798266,
+        "edition": "matutina",
+        "issuer": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+        "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, a las demarcaciones territoriales de la Ciudad de México, así como a los entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Simec Servicios de Ingeniería, Mecánica, Eléctrica y Civil, S.A. de C.V.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5798266&fecha=09/09/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [],
+        "matched": [
+          "eléctric*"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-y-la-semar-fortalecen-intercambio-de-conocimiento-para-la-atencion-de-emergencias-por-derrames-de-hidrocarburos",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA y la SEMAR fortalecen intercambio de conocimiento para la atención de emergencias por derrames de hidrocarburos",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-y-la-semar-fortalecen-intercambio-de-conocimiento-para-la-atencion-de-emergencias-por-derrames-de-hidrocarburos",
+      "published": "2026-09-09T11:16:00-06:00",
+      "subsectors": [
+        "hidrocarburos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "hidrocarburo*",
+        "ASEA"
+      ]
+    },
+    {
+      "id": "gobmx-sener-articulos-programa-sectorial-de-energia-2025-2030",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "Programa Sectorial de Energía 2025 - 2030",
+      "url": "https://www.gob.mx/sener/es/articulos/programa-sectorial-de-energia-2025-2030",
+      "published": "2026-09-09T11:14:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "energía"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 16.9202,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/09-09-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 1874.65,
+        "min": 484.53,
+        "max": 4654.24,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/09/09/2026/09/09/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1994.65,
+        "min": 517.6,
+        "max": 5106.26,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/09/09/2026/09/09/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2073.27,
+        "min": 536.65,
+        "max": 4973.78,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/09/09/2026/09/09/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 4528.82,
+        "min": 589.61,
+        "max": 18838.45,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/09/09/2026/09/09/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 1186.47,
+        "min": 210.47,
+        "max": 4536.0,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/09/09/2026/09/09/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 1684.63,
+        "min": 513.37,
+        "max": 5262.02,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/09/09/2026/09/09/JSON"
+      }
+    ]
+  }
+}

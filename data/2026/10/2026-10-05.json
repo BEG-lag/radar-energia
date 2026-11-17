@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-05",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/05-10-2026",
+    "editions": [
+      "matutina",
+      "vespertina"
+    ],
+    "notes_reviewed": 20,
+    "items": [
+      {
+        "id": "dof-5800282",
+        "dof_id": 5800282,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Norma Oficial Mexicana de Emergencia NOM-EM-009-ASEA- 2026, Distribución de Gas Licuado de Petróleo por medio de Auto-tanque y Vehículo de Reparto.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5800282&fecha=05/10/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "gas licuado de petróleo",
+          "ASEA"
+        ]
+      }
+    ]
+  },
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-publico-la-nom-em-009-asea-2026-para-la-distribucion-de-gas-lp-por-medio-de-auto-tanque-y-vehiculo-de-reparto",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA publicó la NOM-EM-009-ASEA-2026 para la distribución de Gas LP por medio de auto-tanque y vehículo de reparto",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-publico-la-nom-em-009-asea-2026-para-la-distribucion-de-gas-lp-por-medio-de-auto-tanque-y-vehiculo-de-reparto",
+      "published": "2026-10-05T19:54:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "gas LP",
+        "ASEA"
+      ]
+    },
+    {
+      "id": "gobmx-asea-prensa-la-asea-y-el-fovissste-inauguraron-jornada-de-atencion-del-programa-fovissste-en-tu-oficina",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA y el FOVISSSTE inauguraron jornada de atención del programa \"FOVISSSTE en tu oficina\"",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-y-el-fovissste-inauguraron-jornada-de-atencion-del-programa-fovissste-en-tu-oficina",
+      "published": "2026-10-05T17:38:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "ASEA"
+      ]
+    }
+  ],
+  "markets": {
+    "fix": {
+      "value": 18.1903,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/05-10-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 877.35,
+        "min": 420.91,
+        "max": 2145.4,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/10/05/2026/10/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1108.95,
+        "min": 458.78,
+        "max": 2562.13,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/10/05/2026/10/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 2529.07,
+        "min": 495.12,
+        "max": 5547.32,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/10/05/2026/10/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 2520.32,
+        "min": 531.28,
+        "max": 5474.29,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/10/05/2026/10/05/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 721.85,
+        "min": 323.07,
+        "max": 2146.3,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/10/05/2026/10/05/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 1800.79,
+        "min": 537.41,
+        "max": 5440.64,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/10/05/2026/10/05/JSON"
+      }
+    ]
+  }
+}
