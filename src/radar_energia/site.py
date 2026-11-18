@@ -46,6 +46,7 @@ REPO_URL = "https://github.com/BEG-lag/radar-energia"
 SS_LABEL = {s.key: s.label_es for s in SUBSECTORS}
 AGENCY_NAME = {a.key: a.name for a in AGENCIES}
 EDITION_LABEL = {"matutina": "Matutina", "vespertina": "Vespertina", "extraordinaria": "Extra"}
+PILL_EN = {"verde": "GREEN", "amarillo": "YELLOW", "rojo": "RED"}
 PRODUCT_LABEL = {"regular": "Gasolina regular", "premium": "Gasolina premium", "diesel": "Diésel"}
 
 
@@ -328,7 +329,7 @@ def render_markets(records: list[dict[str, Any]], latest: date) -> str:
     cards.append(
         '<article class="card mk mk-manual">'
         '<h3 class="mk-title"><span data-i18n="mk.manual">Consulta manual</span>'
-        '<span class="unit pill rojo">ROJO</span></h3>'
+        '<span class="unit pill rojo" data-en="RED">ROJO</span></h3>'
         '<p class="mk-note" data-i18n="mk.manual.note">Referencias que no se pueden leer de forma automática y confiable. El radar no las raspa: aquí está la liga oficial.</p>'
         f'<ul class="manual">{manual_items}</ul></article>'
     )
@@ -401,7 +402,7 @@ def render_feeds() -> str:
 
 def render_sources() -> str:
     rows = "".join(
-        f'<tr><td><span class="pill {e(s.status)}">{e(s.status.upper())}</span></td>'
+        f'<tr><td><span class="pill {e(s.status)}" data-en="{PILL_EN[s.status]}">{e(s.status.upper())}</span></td>'
         f'<td><a href="{e(s.url)}" rel="noopener" data-en="{e(s.name_en)}">{e(s.name_es)}</a><br><span class="muted">{e(s.publisher)}</span></td>'
         f'<td data-en="{e(s.use_en)}">{e(s.use_es)}</td></tr>'
         for s in SOURCES

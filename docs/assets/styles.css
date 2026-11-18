@@ -224,6 +224,7 @@ mark { background: rgba(207, 255, 69, 0.22); color: var(--paper); border-radius:
 .sources th, .sources td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--ink-3); }
 .sources th { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); background: var(--ink-2); }
 .sources tr:last-child td { border-bottom: 0; }
+.table-wrap + .block-note { margin-top: 12px; }
 
 /* Footer */
 .foot { margin-top: 56px; border-top: 1px solid var(--ink-3); background: var(--ink-2); padding: 26px 0 34px; }
