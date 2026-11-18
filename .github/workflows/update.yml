@@ -1,0 +1,76 @@
+name: Update radar
+
+# Mexico City has used UTC-6 all year since 2022 (no daylight saving time).
+#   14:30 UTC = 08:30 in Mexico City, after the DOF matutina (morning) edition.
+#   04:30 UTC = 22:30 in Mexico City, after most vespertina (evening) editions.
+# Each run re-fetches the last 4 days, so late editions and corrections are picked up.
+# A source that fails is skipped and its stored data is kept; the run only fails when
+# every source fails.
+on:
+  schedule:
+    - cron: "30 14 * * *"
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days back to re-fetch (including today)"
+        default: "4"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Fetch official sources
+        run: uv run --frozen radar-energia -v update --days "${{ inputs.days || '4' }}"
+
+      - name: Rebuild the site
+        run: uv run --frozen radar-energia build
+
+      - name: Validate data, site and feeds
+        run: uv run --frozen pytest -q tests/test_dataset.py tests/test_site.py
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "Nothing new in the official sources."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          last=$(jq -r .last_date data/meta.json)
+          items=$(jq -r .items data/meta.json)
+          git commit -m "chore(data): radar update through ${last} (${items} items)"
+          git pull --rebase origin main
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
