@@ -9,7 +9,24 @@
     "notes_reviewed": 18,
     "items": []
   },
-  "authorities": [],
+  "authorities": [
+    {
+      "id": "gobmx-asea-documentos-tramites-disponibles-en-la-nueva-ope-2-0",
+      "agency": "ASEA",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "TRÁMITES DISPONIBLES EN LA NUEVA OPE 2.0",
+      "url": "https://www.gob.mx/asea/documentos/tramites-disponibles-en-la-nueva-ope-2-0",
+      "published": "2026-11-17T14:42:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": []
+    }
+  ],
   "markets": {
     "fix": {
       "value": 18.5525,
@@ -79,7 +96,7 @@
       }
     ],
     "fuel": {
-      "stations": 15377,
+      "stations": 15531,
       "unit": "MXN/l",
       "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
       "products": {
@@ -87,8 +104,8 @@
           "median": 23.99,
           "mean": 23.69,
           "p10": 22.97,
-          "p90": 24.49,
-          "stations": 13780,
+          "p90": 24.48,
+          "stations": 13783,
           "excluded": 3
         },
         "premium": {
@@ -96,15 +113,15 @@
           "mean": 28.58,
           "p10": 27.36,
           "p90": 29.99,
-          "stations": 12981,
+          "stations": 12982,
           "excluded": 2
         },
         "diesel": {
           "median": 27.0,
           "mean": 26.97,
           "p10": 26.8,
-          "p90": 27.4,
-          "stations": 10608,
+          "p90": 27.41,
+          "stations": 10610,
           "excluded": 8
         }
       }

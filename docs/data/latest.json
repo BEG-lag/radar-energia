@@ -8,7 +8,7 @@
     "notes_reviewed": 18,
     "energy_items": 0
   },
-  "items_total": 116,
+  "items_total": 117,
   "week": {
     "start": "2026-11-16",
     "end": "2026-11-22",
@@ -19,7 +19,7 @@
       "petroliferos": 0,
       "renovables": 0,
       "mineria": 0,
-      "general": 0
+      "general": 1
     }
   },
   "month": {
@@ -32,7 +32,7 @@
       "petroliferos": 7,
       "renovables": 1,
       "mineria": 0,
-      "general": 3
+      "general": 4
     }
   },
   "fix": {
