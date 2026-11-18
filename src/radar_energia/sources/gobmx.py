@@ -48,6 +48,7 @@ ARCHIVES: tuple[Archive, ...] = (
     Archive("ASEA", "asea", "documentos", "Documento"),
     Archive("CENACE", "cenace", "prensa", "Comunicado"),
 )
+ARCHIVES_BY_KEY: dict[str, Archive] = {f"{a.slug}:{a.section}": a for a in ARCHIVES}
 
 _ARTICLE = re.compile(r"<article\b[^>]*>(.*?)</article>", re.S | re.I)
 _TIME = re.compile(r"<time\b[^>]*\b(?:datetime|date)=\"(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})", re.I)
