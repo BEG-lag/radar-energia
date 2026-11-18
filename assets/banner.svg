@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="t d">
+  <title id="t">radar·energía</title>
+  <desc id="d">Radar diario del sector energético en México: DOF, CNE, SENER, ASEA, CENACE y referencias del mercado, cada dato con su fuente oficial. Por Benjamín Esponda García, PIVOTEK.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#11141b" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.78" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#cfff45" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#cfff45" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cfff45" stop-opacity="0"/>
+      <stop offset="1" stop-color="#cfff45" stop-opacity="0.38"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .serif { font-family: "Cormorant Garamond", "Iowan Old Style", Georgia, serif; font-style: italic; }
+      .sweep { transform-origin: 1010px 200px; animation: spin 6s linear infinite; }
+      .blip { animation: ping 6s ease-out infinite; opacity: 0.35; }
+      .b2 { animation-delay: -1.2s; } .b3 { animation-delay: -2.5s; } .b4 { animation-delay: -3.4s; }
+      .b5 { animation-delay: -4.3s; } .b6 { animation-delay: -5.1s; }
+      .tick { animation: blink 1.2s steps(2) infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes ping { 0%, 8% { opacity: 1; } 60%, 100% { opacity: 0.35; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .sweep, .blip, .tick { animation: none; }
+        .blip { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="400" fill="#0a0c10"/>
+  <rect width="1280" height="400" fill="url(#grid)"/>
+  <rect width="1280" height="400" fill="url(#glow)"/>
+
+  <!-- left: identity -->
+  <g class="mono">
+    <rect x="64" y="70" width="12" height="12" fill="#cfff45"/>
+    <text x="88" y="81" fill="#969dab" font-size="15" letter-spacing="2">PIVOTEK · CÓDIGO ABIERTO</text>
+    <text x="62" y="170" fill="#eceee6" font-size="72" font-weight="700" letter-spacing="-3">radar<tspan fill="#cfff45">·</tspan>energía<tspan class="tick" fill="#cfff45" dx="6">_</tspan></text>
+  </g>
+  <text class="serif" x="64" y="224" fill="#cfff45" font-size="38">el día del sector energético, con su fuente oficial</text>
+  <g class="mono" font-size="15">
+    <g transform="translate(64 262)">
+      <rect width="56" height="28" rx="6" fill="#cfff45"/><text x="28" y="19" fill="#0a0c10" text-anchor="middle" font-weight="700">DOF</text>
+      <rect x="66" width="56" height="28" rx="6" fill="#7fd8ff"/><text x="94" y="19" fill="#0a0c10" text-anchor="middle" font-weight="700">CNE</text>
+      <rect x="132" width="72" height="28" rx="6" fill="#ffb648"/><text x="168" y="19" fill="#0a0c10" text-anchor="middle" font-weight="700">SENER</text>
+      <rect x="214" width="62" height="28" rx="6" fill="#ff5d47"/><text x="245" y="19" fill="#0a0c10" text-anchor="middle" font-weight="700">ASEA</text>
+      <rect x="286" width="82" height="28" rx="6" fill="#eceee6"/><text x="327" y="19" fill="#0a0c10" text-anchor="middle" font-weight="700">CENACE</text>
+      <rect x="378" width="118" height="28" rx="6" fill="none" stroke="#262b3a"/><text x="437" y="19" fill="#eceee6" text-anchor="middle">FIX · MDA</text>
+    </g>
+    <text x="64" y="340" fill="#969dab">DOF · regulador · ministerio · mercado · RSS · ES/EN</text>
+    <text x="64" y="364" fill="#969dab">Benjamín Esponda García · pivotek.mx</text>
+  </g>
+
+  <!-- right: radar -->
+  <g transform="translate(1010 200)" fill="none" stroke="#262b3a" stroke-width="1.2">
+    <circle r="160"/><circle r="120"/><circle r="80"/><circle r="40"/>
+    <path d="M-160 0H160M0 -160V160" stroke="#191d27"/>
+  </g>
+  <g class="sweep">
+    <path d="M1010 200 L1170 200 A160 160 0 0 0 1132.6 97.2 Z" fill="url(#sweep)"/>
+  </g>
+  <g>
+    <circle class="blip" cx="1062" cy="118" r="6" fill="#cfff45"/>
+    <circle class="blip b2" cx="1116" cy="226" r="6" fill="#ff5d47"/>
+    <circle class="blip b3" cx="1044" cy="292" r="6" fill="#7fd8ff"/>
+    <circle class="blip b4" cx="956" cy="262" r="6" fill="#ffb648"/>
+    <circle class="blip b5" cx="922" cy="160" r="6" fill="#8ff0a4"/>
+    <circle class="blip b6" cx="978" cy="96" r="6" fill="#969dab"/>
+    <circle cx="1010" cy="200" r="6" fill="#cfff45"/>
+  </g>
+  <g class="mono" font-size="12" fill="#969dab" text-anchor="middle">
+    <text x="1010" y="28">ELECTRICIDAD · HIDROCARBUROS · GAS · PETROLÍFEROS</text>
+    <text x="1010" y="384">RENOVABLES · MINERÍA</text>
+  </g>
+</svg>
