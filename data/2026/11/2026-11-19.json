@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/19-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 11,
+    "items": []
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 18.6723,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/19-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 584.06,
+        "min": 388.84,
+        "max": 1322.49,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/19/2026/11/19/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 778.38,
+        "min": 473.79,
+        "max": 2532.6,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/19/2026/11/19/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1101.58,
+        "min": 513.75,
+        "max": 2743.61,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/19/2026/11/19/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1188.26,
+        "min": 571.93,
+        "max": 3239.58,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/19/2026/11/19/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 463.11,
+        "min": 149.56,
+        "max": 1139.25,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/19/2026/11/19/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 411.11,
+        "min": 65.32,
+        "max": 602.65,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/19/2026/11/19/JSON"
+      }
+    ],
+    "fuel": {
+      "stations": 15649,
+      "unit": "MXN/l",
+      "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
+      "products": {
+        "regular": {
+          "median": 23.99,
+          "mean": 23.69,
+          "p10": 22.97,
+          "p90": 24.45,
+          "stations": 13783,
+          "excluded": 3
+        },
+        "premium": {
+          "median": 28.79,
+          "mean": 28.58,
+          "p10": 27.35,
+          "p90": 29.99,
+          "stations": 12982,
+          "excluded": 2
+        },
+        "diesel": {
+          "median": 27.0,
+          "mean": 26.97,
+          "p10": 26.8,
+          "p90": 27.39,
+          "stations": 10610,
+          "excluded": 8
+        }
+      }
+    },
+    "gas_lp": {
+      "title": "PRECIOS MÁXIMOS VIGENTES DEL 15 AL 21 DE NOVIEMBRE DE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1116604/PRECIOS_MAXIMOS_VIGENTES_DEL_15_al_21_DE_NOVIEMBRE_DE_2026.pdf",
+      "page": "https://www.gob.mx/cne/documentos/precios-maximos-aplicables-de-gas-lp-399897",
+      "valid_from": "2026-11-15",
+      "valid_to": "2026-11-21"
+    }
+  }
+}

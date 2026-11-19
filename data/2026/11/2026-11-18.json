@@ -4,9 +4,10 @@
   "dof": {
     "source": "https://sidof.segob.gob.mx/dof/sidof/notas/18-11-2026",
     "editions": [
-      "matutina"
+      "matutina",
+      "vespertina"
     ],
-    "notes_reviewed": 23,
+    "notes_reviewed": 24,
     "items": [
       {
         "id": "dof-5804108",
