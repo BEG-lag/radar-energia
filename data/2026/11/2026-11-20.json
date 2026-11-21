@@ -4,12 +4,94 @@
   "dof": {
     "source": "https://sidof.segob.gob.mx/dof/sidof/notas/20-11-2026",
     "editions": [
-      "matutina"
+      "matutina",
+      "vespertina"
     ],
-    "notes_reviewed": 16,
-    "items": []
+    "notes_reviewed": 19,
+    "items": [
+      {
+        "id": "dof-5804577",
+        "dof_id": 5804577,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5804577&fecha=20/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "combustible*"
+        ]
+      },
+      {
+        "id": "dof-5804578",
+        "dof_id": 5804578,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5804578&fecha=20/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      },
+      {
+        "id": "dof-5804579",
+        "dof_id": 5804579,
+        "edition": "vespertina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5804579&fecha=20/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*"
+        ]
+      }
+    ]
   },
-  "authorities": [],
+  "authorities": [
+    {
+      "id": "gobmx-cne-documentos-convocatoria-del-mecanismo-de-asignacion-de-capacidad-para-sukarne-agroindustrial-s-a-de-c-v-sukarne",
+      "agency": "CNE",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Convocatoria del Mecanismo de Asignación de Capacidad para Sukarne Agroindustrial, S. A. de C. V., (Sukarne)",
+      "url": "https://www.gob.mx/cne/documentos/convocatoria-del-mecanismo-de-asignacion-de-capacidad-para-sukarne-agroindustrial-s-a-de-c-v-sukarne",
+      "published": "2026-11-20T17:58:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": []
+    },
+    {
+      "id": "gobmx-asea-documentos-repositorio-de-formatos-asea-2026",
+      "agency": "ASEA",
+      "section": "documentos",
+      "kind": "Documento",
+      "title": "Repositorio de Formatos ASEA",
+      "url": "https://www.gob.mx/asea/documentos/repositorio-de-formatos-asea-2026",
+      "published": "2026-11-20T17:30:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "ASEA"
+      ]
+    }
+  ],
   "markets": {
     "fix": {
       "value": 19.027,

@@ -5,10 +5,34 @@
   <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feeds/petroliferos.xml"/>
   <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
   <id>https://beg-lag.github.io/radar-energia/feeds/petroliferos.xml</id>
-  <updated>2026-11-18T07:00:00-06:00</updated>
+  <updated>2026-11-20T07:00:00-06:00</updated>
   <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
   <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
   <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5804579&amp;fecha=20/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5804579</id>
+    <updated>2026-11-20T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5804578&amp;fecha=20/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5804578</id>
+    <updated>2026-11-20T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5804577&amp;fecha=20/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5804577</id>
+    <updated>2026-11-20T07:00:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <summary>DOF, edición vespertina. SECRETARIA DE HACIENDA Y CREDITO PUBLICO. Petrolíferos.</summary>
+  </entry>
   <entry>
     <title>Acuerdo de modificación a las disposiciones transitorias de la Norma Oficial Mexicana NOM-174-SEMARNAT-2026, Límites máximos permisibles de emisión de contaminantes provenientes del escape de los motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera, que usan diésel como combustible.</title>
     <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5804108&amp;fecha=18/11/2026"/>
