@@ -79,7 +79,7 @@
       }
     ],
     "fuel": {
-      "stations": 15478,
+      "stations": 15560,
       "unit": "MXN/l",
       "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
       "products": {
@@ -88,7 +88,7 @@
           "mean": 23.69,
           "p10": 22.97,
           "p90": 24.49,
-          "stations": 13789,
+          "stations": 13787,
           "excluded": 3
         },
         "premium": {
@@ -96,15 +96,15 @@
           "mean": 28.58,
           "p10": 27.35,
           "p90": 29.99,
-          "stations": 12986,
+          "stations": 12984,
           "excluded": 2
         },
         "diesel": {
           "median": 27.0,
           "mean": 26.97,
           "p10": 26.8,
-          "p90": 27.4,
-          "stations": 10610,
+          "p90": 27.39,
+          "stations": 10607,
           "excluded": 8
         }
       }
