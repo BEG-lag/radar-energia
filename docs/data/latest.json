@@ -8,7 +8,7 @@
     "notes_reviewed": 24,
     "energy_items": 0
   },
-  "items_total": 123,
+  "items_total": 124,
   "week": {
     "start": "2026-11-23",
     "end": "2026-11-29",
@@ -16,7 +16,7 @@
       "electricidad": 0,
       "hidrocarburos": 0,
       "gas-natural": 0,
-      "petroliferos": 0,
+      "petroliferos": 1,
       "renovables": 0,
       "mineria": 0,
       "general": 0
@@ -29,7 +29,7 @@
       "electricidad": 1,
       "hidrocarburos": 1,
       "gas-natural": 1,
-      "petroliferos": 11,
+      "petroliferos": 12,
       "renovables": 1,
       "mineria": 0,
       "general": 6

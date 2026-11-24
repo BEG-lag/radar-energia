@@ -9,7 +9,27 @@
     "notes_reviewed": 24,
     "items": []
   },
-  "authorities": [],
+  "authorities": [
+    {
+      "id": "gobmx-cne-prensa-la-cne-exhorta-a-las-personas-que-realizan-despacho-para-autoconsumo-de-petroliferos-a-concluir-su-registro",
+      "agency": "CNE",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La CNE exhorta a las personas que realizan despacho para autoconsumo de petrolíferos a concluir su registro",
+      "url": "https://www.gob.mx/cne/prensa/la-cne-exhorta-a-las-personas-que-realizan-despacho-para-autoconsumo-de-petroliferos-a-concluir-su-registro",
+      "published": "2026-11-24T10:38:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "CNE"
+      ],
+      "matched": [
+        "petrolífero*",
+        "CNE"
+      ]
+    }
+  ],
   "markets": {
     "fix": {
       "value": 19.1648,
