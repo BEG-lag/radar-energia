@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "dof": {
     "editions": [
       "matutina"
     ],
-    "notes_reviewed": 24,
-    "energy_items": 0
+    "notes_reviewed": 21,
+    "energy_items": 1
   },
-  "items_total": 124,
+  "items_total": 125,
   "week": {
     "start": "2026-11-23",
     "end": "2026-11-29",
@@ -16,7 +16,7 @@
       "electricidad": 0,
       "hidrocarburos": 0,
       "gas-natural": 0,
-      "petroliferos": 1,
+      "petroliferos": 2,
       "renovables": 0,
       "mineria": 0,
       "general": 0
@@ -29,82 +29,82 @@
       "electricidad": 1,
       "hidrocarburos": 1,
       "gas-natural": 1,
-      "petroliferos": 12,
+      "petroliferos": 13,
       "renovables": 1,
       "mineria": 0,
       "general": 6
     }
   },
   "fix": {
-    "date": "2026-11-24",
-    "value": 19.1648,
-    "previous_date": "2026-11-23",
-    "previous": 19.0228,
-    "delta": 0.142
+    "date": "2026-11-25",
+    "value": 19.3668,
+    "previous_date": "2026-11-24",
+    "previous": 19.1648,
+    "delta": 0.202
   },
   "zonal_prices": {
     "SIN:MONTERREY": {
-      "date": "2026-11-24",
-      "value": 436.28,
-      "previous_date": "2026-11-23",
-      "previous": 450.31,
-      "delta": -14.03
+      "date": "2026-11-25",
+      "value": 519.5,
+      "previous_date": "2026-11-24",
+      "previous": 436.28,
+      "delta": 83.22
     },
     "SIN:GUADALAJARA": {
-      "date": "2026-11-24",
-      "value": 990.87,
-      "previous_date": "2026-11-23",
-      "previous": 842.62,
-      "delta": 148.25
+      "date": "2026-11-25",
+      "value": 699.55,
+      "previous_date": "2026-11-24",
+      "previous": 990.87,
+      "delta": -291.32
     },
     "SIN:PUEBLA": {
-      "date": "2026-11-24",
-      "value": 1394.2,
-      "previous_date": "2026-11-23",
-      "previous": 1167.61,
-      "delta": 226.59
+      "date": "2026-11-25",
+      "value": 768.25,
+      "previous_date": "2026-11-24",
+      "previous": 1394.2,
+      "delta": -625.95
     },
     "SIN:MERIDA": {
-      "date": "2026-11-24",
-      "value": 1454.74,
-      "previous_date": "2026-11-23",
-      "previous": 1246.43,
-      "delta": 208.31
+      "date": "2026-11-25",
+      "value": 803.5,
+      "previous_date": "2026-11-24",
+      "previous": 1454.74,
+      "delta": -651.24
     },
     "SIN:HERMOSILLO": {
-      "date": "2026-11-24",
-      "value": 355.35,
-      "previous_date": "2026-11-23",
-      "previous": 229.05,
-      "delta": 126.3
+      "date": "2026-11-25",
+      "value": 227.67,
+      "previous_date": "2026-11-24",
+      "previous": 355.35,
+      "delta": -127.68
     },
     "BCA:MEXICALI": {
-      "date": "2026-11-24",
-      "value": 474.8,
-      "previous_date": "2026-11-23",
-      "previous": 486.52,
-      "delta": -11.72
+      "date": "2026-11-25",
+      "value": 506.14,
+      "previous_date": "2026-11-24",
+      "previous": 474.8,
+      "delta": 31.34
     }
   },
   "fuel_median": {
     "regular": {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "value": 23.99,
-      "previous_date": "2026-11-23",
+      "previous_date": "2026-11-24",
       "previous": 23.99,
       "delta": 0.0
     },
     "premium": {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "value": 28.79,
-      "previous_date": "2026-11-23",
+      "previous_date": "2026-11-24",
       "previous": 28.79,
       "delta": 0.0
     },
     "diesel": {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "value": 27.0,
-      "previous_date": "2026-11-23",
+      "previous_date": "2026-11-24",
       "previous": 27.0,
       "delta": 0.0
     }

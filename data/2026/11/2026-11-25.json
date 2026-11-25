@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-25",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/25-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 21,
+    "items": [
+      {
+        "id": "dof-5805253",
+        "dof_id": 5805253,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "title": "Norma Oficial Mexicana NOM-023-ASEA-2026, Estaciones de Servicio con fin Específico para Expendio al Público de gasolinas y/o diésel para Vehículos Automotores (cancela a la NOM-005-ASEA-2016, Diseño, construcción, operación y Mantenimiento de Estaciones de Servicio para almacenamiento y expendio de diésel y gasolinas).",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805253&fecha=25/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [
+          "ASEA"
+        ],
+        "matched": [
+          "gasolina*",
+          "diésel",
+          "diesel",
+          "estaciones de servicio",
+          "expendio al público",
+          "ASEA"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 19.3668,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/25-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 519.5,
+        "min": 398.47,
+        "max": 846.57,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/25/2026/11/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 699.55,
+        "min": 465.01,
+        "max": 1192.5,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/25/2026/11/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 768.25,
+        "min": 485.41,
+        "max": 1206.56,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/25/2026/11/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 803.5,
+        "min": 525.2,
+        "max": 1240.74,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/25/2026/11/25/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 227.67,
+        "min": 17.88,
+        "max": 423.06,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/25/2026/11/25/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 506.14,
+        "min": 354.38,
+        "max": 1183.36,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/25/2026/11/25/JSON"
+      }
+    ],
+    "fuel": {
+      "stations": 15711,
+      "unit": "MXN/l",
+      "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
+      "products": {
+        "regular": {
+          "median": 23.99,
+          "mean": 23.69,
+          "p10": 22.97,
+          "p90": 24.46,
+          "stations": 13789,
+          "excluded": 3
+        },
+        "premium": {
+          "median": 28.79,
+          "mean": 28.58,
+          "p10": 27.35,
+          "p90": 29.99,
+          "stations": 12984,
+          "excluded": 2
+        },
+        "diesel": {
+          "median": 27.0,
+          "mean": 26.97,
+          "p10": 26.8,
+          "p90": 27.39,
+          "stations": 10608,
+          "excluded": 8
+        }
+      }
+    },
+    "gas_lp": {
+      "title": "PRECIOS MÁXIMOS VIGENTES DEL 22 AL 28 DE NOVIEMBRE DE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1117388/PRECIOS_MAXIMOS_VIGENTES_DEL_22_al_28_de_noviembre_DE_2026.pdf",
+      "page": "https://www.gob.mx/cne/documentos/precios-maximos-aplicables-de-gas-lp-399897",
+      "valid_from": "2026-11-22",
+      "valid_to": "2026-11-28"
+    }
+  }
+}
