@@ -67,6 +67,12 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .brand { display: inline-flex; align-items: center; gap: 9px; color: var(--paper); font-weight: 700; letter-spacing: -0.02em; white-space: nowrap; }
 .brand b { color: var(--lime); }
 .brand:hover { text-decoration: none; }
+/* PIVOTEK logo next to the site name (orange on ink; isotype on narrow screens) */
+.pvk { display: flex; align-items: center; flex: none; height: 22px; margin-left: 4px; padding-left: 16px; border-left: 1px solid var(--line); }
+.pvk:hover { text-decoration: none; opacity: 0.85; }
+.pvk img { display: block; transform: translateY(2px); }
+.pvk-iso { display: none !important; }
+@media (max-width: 360px) { .pvk-logo { display: none !important; } .pvk-iso { display: block !important; } }
 .top-row { flex-wrap: wrap; }
 .nav { order: 3; display: flex; flex-wrap: wrap; gap: 4px 16px; width: 100%; padding: 0 0 10px; font-size: 12px; }
 .nav a { color: var(--muted); }
