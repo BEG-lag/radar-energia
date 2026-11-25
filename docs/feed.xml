@@ -5,10 +5,28 @@
   <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
   <id>https://beg-lag.github.io/radar-energia/feed.xml</id>
-  <updated>2026-11-25T07:00:00-06:00</updated>
+  <updated>2026-11-25T16:34:00-06:00</updated>
   <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
   <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
   <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>Comparece ASEA ante comisiones de Energía y Medio Ambiente en Cámara de Diputados</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/comparece-asea-ante-comisiones-de-energia-y-medio-ambiente-en-camara-de-diputados"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-comparece-asea-ante-comisiones-de-energia-y-medio-ambiente-en-camara-de-diputados</id>
+    <updated>2026-11-25T16:34:00-06:00</updated>
+    <category term="general" label="Energía (general)"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Energía (general). ASEA.</summary>
+  </entry>
+  <entry>
+    <title>Sener y Conuee impulsan los Programas de Eficiencia Energética 2026 a 2030</title>
+    <link rel="alternate" href="https://www.gob.mx/sener/es/articulos/sener-y-conuee-impulsan-los-programas-de-eficiencia-energetica-2026-a-2030"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-sener-articulos-sener-y-conuee-impulsan-los-programas-de-eficiencia-energetica-2026-a-2030</id>
+    <updated>2026-11-25T15:25:00-06:00</updated>
+    <category term="general" label="Energía (general)"/>
+    <category term="SENER" label="Secretaría de Energía"/>
+    <summary>SENER en gob.mx. Artículo. Energía (general). SENER.</summary>
+  </entry>
   <entry>
     <title>Norma Oficial Mexicana NOM-023-ASEA-2026, Estaciones de Servicio con fin Específico para Expendio al Público de gasolinas y/o diésel para Vehículos Automotores (cancela a la NOM-005-ASEA-2016, Diseño, construcción, operación y Mantenimiento de Estaciones de Servicio para almacenamiento y expendio de diésel y gasolinas).</title>
     <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805253&amp;fecha=25/11/2026"/>
@@ -860,23 +878,5 @@
     <category term="petroliferos" label="Petrolíferos"/>
     <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
     <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
-  </entry>
-  <entry>
-    <title>Acuerdo por el que la Secretaría de Energía emite el Plan de Desarrollo del Sector Hidrocarburos.</title>
-    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798065&amp;fecha=07/09/2026"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798065</id>
-    <updated>2026-09-07T07:00:00-06:00</updated>
-    <category term="hidrocarburos" label="Hidrocarburos"/>
-    <category term="SENER" label="Secretaría de Energía"/>
-    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Hidrocarburos. SENER.</summary>
-  </entry>
-  <entry>
-    <title>Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-030-ASEA-2026, Distribución de Gas Licuado de Petróleo por medio de Auto- tanque y Vehículo de Reparto.</title>
-    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798063&amp;fecha=07/09/2026"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798063</id>
-    <updated>2026-09-07T07:00:00-06:00</updated>
-    <category term="petroliferos" label="Petrolíferos"/>
-    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
-    <summary>DOF, edición matutina. SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES. Petrolíferos. ASEA.</summary>
   </entry>
 </feed>

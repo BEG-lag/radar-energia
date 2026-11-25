@@ -32,7 +32,46 @@
       }
     ]
   },
-  "authorities": [],
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-comparece-asea-ante-comisiones-de-energia-y-medio-ambiente-en-camara-de-diputados",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "Comparece ASEA ante comisiones de Energía y Medio Ambiente en Cámara de Diputados",
+      "url": "https://www.gob.mx/asea/prensa/comparece-asea-ante-comisiones-de-energia-y-medio-ambiente-en-camara-de-diputados",
+      "published": "2026-11-25T16:34:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "energía",
+        "ASEA"
+      ]
+    },
+    {
+      "id": "gobmx-sener-articulos-sener-y-conuee-impulsan-los-programas-de-eficiencia-energetica-2026-a-2030",
+      "agency": "SENER",
+      "section": "articulos",
+      "kind": "Artículo",
+      "title": "Sener y Conuee impulsan los Programas de Eficiencia Energética 2026 a 2030",
+      "url": "https://www.gob.mx/sener/es/articulos/sener-y-conuee-impulsan-los-programas-de-eficiencia-energetica-2026-a-2030",
+      "published": "2026-11-25T15:25:00-06:00",
+      "subsectors": [
+        "general"
+      ],
+      "agencies": [
+        "SENER"
+      ],
+      "matched": [
+        "energétic*",
+        "SENER"
+      ]
+    }
+  ],
   "markets": {
     "fix": {
       "value": 19.3668,
