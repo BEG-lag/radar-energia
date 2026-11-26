@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/26-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 20,
+    "items": [
+      {
+        "id": "dof-5805363",
+        "dof_id": 5805363,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+        "title": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de diciembre de 2026.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805363&fecha=26/11/2026",
+        "subsectors": [
+          "petroliferos"
+        ],
+        "agencies": [],
+        "matched": [
+          "gasolina*",
+          "diésel",
+          "diesel"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 19.704,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/26-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 758.2,
+        "min": 446.79,
+        "max": 2403.32,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/26/2026/11/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 993.33,
+        "min": 509.3,
+        "max": 3450.63,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/26/2026/11/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1008.59,
+        "min": 522.48,
+        "max": 3443.12,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/26/2026/11/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1053.12,
+        "min": 545.32,
+        "max": 3505.48,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/26/2026/11/26/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 313.3,
+        "min": 78.21,
+        "max": 663.46,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/26/2026/11/26/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 586.29,
+        "min": 386.63,
+        "max": 1184.75,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/26/2026/11/26/JSON"
+      }
+    ],
+    "fuel": {
+      "stations": 15986,
+      "unit": "MXN/l",
+      "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
+      "products": {
+        "regular": {
+          "median": 23.99,
+          "mean": 23.69,
+          "p10": 22.97,
+          "p90": 24.39,
+          "stations": 13788,
+          "excluded": 3
+        },
+        "premium": {
+          "median": 28.79,
+          "mean": 28.58,
+          "p10": 27.35,
+          "p90": 29.99,
+          "stations": 12984,
+          "excluded": 2
+        },
+        "diesel": {
+          "median": 27.0,
+          "mean": 26.97,
+          "p10": 26.8,
+          "p90": 27.39,
+          "stations": 10609,
+          "excluded": 8
+        }
+      }
+    },
+    "gas_lp": {
+      "title": "PRECIOS MÁXIMOS VIGENTES DEL 22 AL 28 DE NOVIEMBRE DE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1117388/PRECIOS_MAXIMOS_VIGENTES_DEL_22_al_28_de_noviembre_DE_2026.pdf",
+      "page": "https://www.gob.mx/cne/documentos/precios-maximos-aplicables-de-gas-lp-399897",
+      "valid_from": "2026-11-22",
+      "valid_to": "2026-11-28"
+    }
+  }
+}
