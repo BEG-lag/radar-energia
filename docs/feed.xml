@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
   <id>https://beg-lag.github.io/radar-energia/feed.xml</id>
-  <updated>2026-11-26T07:00:00-06:00</updated>
+  <updated>2026-11-26T12:03:00-06:00</updated>
   <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
   <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
   <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>La ASEA fortalece la seguridad en estaciones de servicio con la nueva NOM-023-ASEA-2026</title>
+    <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-fortalece-la-seguridad-en-estaciones-de-servicio-con-la-nueva-nom-023-asea-2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-la-asea-fortalece-la-seguridad-en-estaciones-de-servicio-con-la-nueva-nom-023-asea-2026</id>
+    <updated>2026-11-26T12:03:00-06:00</updated>
+    <category term="petroliferos" label="Petrolíferos"/>
+    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
+    <summary>ASEA en gob.mx. Comunicado. Petrolíferos. ASEA.</summary>
+  </entry>
   <entry>
     <title>Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de diciembre de 2026.</title>
     <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805363&amp;fecha=26/11/2026"/>
@@ -868,14 +877,5 @@
     <category term="electricidad" label="Electricidad"/>
     <category term="SENER" label="Secretaría de Energía"/>
     <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad. SENER.</summary>
-  </entry>
-  <entry>
-    <title>Inspectores de la ASEA realizaron recorrido de verificación en el "Arroyo La Gloria", en Veracruz</title>
-    <link rel="alternate" href="https://www.gob.mx/asea/prensa/inspectores-de-la-asea-realizaron-recorrido-de-verificacion-en-el-arroyo-la-gloria-en-veracruz"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/gobmx-asea-prensa-inspectores-de-la-asea-realizaron-recorrido-de-verificacion-en-el-arroyo-la-gloria-en-veracruz</id>
-    <updated>2026-09-07T21:09:00-06:00</updated>
-    <category term="general" label="Energía (general)"/>
-    <category term="ASEA" label="Agencia de Seguridad, Energía y Ambiente"/>
-    <summary>ASEA en gob.mx. Comunicado. Energía (general). ASEA.</summary>
   </entry>
 </feed>

@@ -27,7 +27,27 @@
       }
     ]
   },
-  "authorities": [],
+  "authorities": [
+    {
+      "id": "gobmx-asea-prensa-la-asea-fortalece-la-seguridad-en-estaciones-de-servicio-con-la-nueva-nom-023-asea-2026",
+      "agency": "ASEA",
+      "section": "prensa",
+      "kind": "Comunicado",
+      "title": "La ASEA fortalece la seguridad en estaciones de servicio con la nueva NOM-023-ASEA-2026",
+      "url": "https://www.gob.mx/asea/prensa/la-asea-fortalece-la-seguridad-en-estaciones-de-servicio-con-la-nueva-nom-023-asea-2026",
+      "published": "2026-11-26T12:03:00-06:00",
+      "subsectors": [
+        "petroliferos"
+      ],
+      "agencies": [
+        "ASEA"
+      ],
+      "matched": [
+        "estaciones de servicio",
+        "ASEA"
+      ]
+    }
+  ],
   "markets": {
     "fix": {
       "value": 19.704,
