@@ -5,10 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feeds/hidrocarburos.xml"/>
   <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
   <id>https://beg-lag.github.io/radar-energia/feeds/hidrocarburos.xml</id>
-  <updated>2026-11-02T07:00:00-06:00</updated>
+  <updated>2026-11-27T07:00:00-06:00</updated>
   <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
   <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
   <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>Acuerdo por el que se establece la Metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción, así como verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, y la presentación de información sobre el contenido nacional en las actividades que realicen las personas Asignatarias, Contratistas y Permisionarias.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805532&amp;fecha=27/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5805532</id>
+    <updated>2026-11-27T07:00:00-06:00</updated>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ECONOMIA. Hidrocarburos.</summary>
+  </entry>
   <entry>
     <title>Acuerdo por el que se establecen acciones de simplificación para trámites que se realizan ante la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, así como se expiden y modifican los formatos que se mencionan.</title>
     <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5802719&amp;fecha=02/11/2026"/>

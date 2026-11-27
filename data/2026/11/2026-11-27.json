@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "dof": {
+    "source": "https://sidof.segob.gob.mx/dof/sidof/notas/27-11-2026",
+    "editions": [
+      "matutina"
+    ],
+    "notes_reviewed": 17,
+    "items": [
+      {
+        "id": "dof-5805530",
+        "dof_id": 5805530,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ECONOMIA",
+        "title": "Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional del sector eléctrico, así como su verificación, y la forma de presentación de información sobre el grado de contenido nacional en las actividades que realicen las empresas del sector eléctrico.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805530&fecha=27/11/2026",
+        "subsectors": [
+          "electricidad"
+        ],
+        "agencies": [],
+        "matched": [
+          "eléctric*"
+        ]
+      },
+      {
+        "id": "dof-5805531",
+        "dof_id": 5805531,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ECONOMIA",
+        "title": "Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional en la biomasa ya sea para su uso directo como biocombustibles o para la producción de biocombustibles, así como su verificación; y la forma de presentación de la información sobre el grado de contenido nacional en las actividades que realicen las personas físicas o morales que formen parte de la industria de biocombustibles.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805531&fecha=27/11/2026",
+        "subsectors": [
+          "renovables"
+        ],
+        "agencies": [],
+        "matched": [
+          "biocombustible*",
+          "biomasa"
+        ]
+      },
+      {
+        "id": "dof-5805532",
+        "dof_id": 5805532,
+        "edition": "matutina",
+        "issuer": "SECRETARIA DE ECONOMIA",
+        "title": "Acuerdo por el que se establece la Metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción, así como verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, y la presentación de información sobre el contenido nacional en las actividades que realicen las personas Asignatarias, Contratistas y Permisionarias.",
+        "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805532&fecha=27/11/2026",
+        "subsectors": [
+          "hidrocarburos"
+        ],
+        "agencies": [],
+        "matched": [
+          "exploración y extracción"
+        ]
+      }
+    ]
+  },
+  "authorities": [],
+  "markets": {
+    "fix": {
+      "value": 19.7203,
+      "unit": "MXN/USD",
+      "source": "https://sidof.segob.gob.mx/dof/sidof/indicadores/27-11-2026"
+    },
+    "zonal_prices": [
+      {
+        "system": "SIN",
+        "zone": "MONTERREY",
+        "name": "Monterrey",
+        "avg": 786.05,
+        "min": 504.07,
+        "max": 1499.43,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MONTERREY/2026/11/27/2026/11/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "GUADALAJARA",
+        "name": "Guadalajara",
+        "avg": 1016.13,
+        "min": 561.46,
+        "max": 1808.84,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/GUADALAJARA/2026/11/27/2026/11/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "PUEBLA",
+        "name": "Puebla",
+        "avg": 1022.25,
+        "min": 572.09,
+        "max": 1837.71,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/PUEBLA/2026/11/27/2026/11/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "MERIDA",
+        "name": "Mérida",
+        "avg": 1029.96,
+        "min": 581.78,
+        "max": 1871.38,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/MERIDA/2026/11/27/2026/11/27/JSON"
+      },
+      {
+        "system": "SIN",
+        "zone": "HERMOSILLO",
+        "name": "Hermosillo",
+        "avg": 440.0,
+        "min": 66.11,
+        "max": 1204.04,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/SIN/MDA/HERMOSILLO/2026/11/27/2026/11/27/JSON"
+      },
+      {
+        "system": "BCA",
+        "zone": "MEXICALI",
+        "name": "Mexicali",
+        "avg": 561.55,
+        "min": 416.51,
+        "max": 1188.1,
+        "hours": 24,
+        "source": "https://ws01.cenace.gob.mx:8082/SWPEND/SIM/BCA/MDA/MEXICALI/2026/11/27/2026/11/27/JSON"
+      }
+    ],
+    "fuel": {
+      "stations": 16020,
+      "unit": "MXN/l",
+      "source": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
+      "products": {
+        "regular": {
+          "median": 23.99,
+          "mean": 23.68,
+          "p10": 22.97,
+          "p90": 24.39,
+          "stations": 13788,
+          "excluded": 3
+        },
+        "premium": {
+          "median": 28.79,
+          "mean": 28.58,
+          "p10": 27.35,
+          "p90": 29.99,
+          "stations": 12984,
+          "excluded": 2
+        },
+        "diesel": {
+          "median": 27.0,
+          "mean": 26.97,
+          "p10": 26.8,
+          "p90": 27.3,
+          "stations": 10609,
+          "excluded": 8
+        }
+      }
+    },
+    "gas_lp": {
+      "title": "PRECIOS MÁXIMOS VIGENTES DEL 22 AL 28 DE NOVIEMBRE DE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1117388/PRECIOS_MAXIMOS_VIGENTES_DEL_22_al_28_de_noviembre_DE_2026.pdf",
+      "page": "https://www.gob.mx/cne/documentos/precios-maximos-aplicables-de-gas-lp-399897",
+      "valid_from": "2026-11-22",
+      "valid_to": "2026-11-28"
+    }
+  }
+}

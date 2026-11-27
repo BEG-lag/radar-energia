@@ -5,10 +5,34 @@
   <link rel="self" type="application/atom+xml" href="https://beg-lag.github.io/radar-energia/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://beg-lag.github.io/radar-energia/"/>
   <id>https://beg-lag.github.io/radar-energia/feed.xml</id>
-  <updated>2026-11-26T12:03:00-06:00</updated>
+  <updated>2026-11-27T07:00:00-06:00</updated>
   <author><name>Benjamín Esponda García · PIVOTEK</name><uri>https://pivotek.mx</uri></author>
   <generator uri="https://github.com/BEG-lag/radar-energia">radar-energia</generator>
   <rights>Información pública recopilada automáticamente. No constituye asesoría legal. Solo el DOF y las autoridades emisoras son fuente oficial.</rights>
+  <entry>
+    <title>Acuerdo por el que se establece la Metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción, así como verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, y la presentación de información sobre el contenido nacional en las actividades que realicen las personas Asignatarias, Contratistas y Permisionarias.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805532&amp;fecha=27/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5805532</id>
+    <updated>2026-11-27T07:00:00-06:00</updated>
+    <category term="hidrocarburos" label="Hidrocarburos"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ECONOMIA. Hidrocarburos.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional en la biomasa ya sea para su uso directo como biocombustibles o para la producción de biocombustibles, así como su verificación; y la forma de presentación de la información sobre el grado de contenido nacional en las actividades que realicen las personas físicas o morales que formen parte de la industria de biocombustibles.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805531&amp;fecha=27/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5805531</id>
+    <updated>2026-11-27T07:00:00-06:00</updated>
+    <category term="renovables" label="Renovables"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ECONOMIA. Renovables.</summary>
+  </entry>
+  <entry>
+    <title>Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional del sector eléctrico, así como su verificación, y la forma de presentación de información sobre el grado de contenido nacional en las actividades que realicen las empresas del sector eléctrico.</title>
+    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5805530&amp;fecha=27/11/2026"/>
+    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5805530</id>
+    <updated>2026-11-27T07:00:00-06:00</updated>
+    <category term="electricidad" label="Electricidad"/>
+    <summary>DOF, edición matutina. SECRETARIA DE ECONOMIA. Electricidad.</summary>
+  </entry>
   <entry>
     <title>La ASEA fortalece la seguridad en estaciones de servicio con la nueva NOM-023-ASEA-2026</title>
     <link rel="alternate" href="https://www.gob.mx/asea/prensa/la-asea-fortalece-la-seguridad-en-estaciones-de-servicio-con-la-nueva-nom-023-asea-2026"/>
@@ -852,30 +876,5 @@
     <category term="general" label="Energía (general)"/>
     <category term="SENER" label="Secretaría de Energía"/>
     <summary>SENER en gob.mx. Artículo. Energía (general). SENER.</summary>
-  </entry>
-  <entry>
-    <title>Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, a las demarcaciones territoriales de la Ciudad de México, así como a los entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Simec Servicios de Ingeniería, Mecánica, Eléctrica y Civil, S.A. de C.V.</title>
-    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798266&amp;fecha=09/09/2026"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798266</id>
-    <updated>2026-09-09T07:00:00-06:00</updated>
-    <category term="electricidad" label="Electricidad"/>
-    <summary>DOF, edición matutina. SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO. Electricidad.</summary>
-  </entry>
-  <entry>
-    <title>Norma Oficial Mexicana NOM-157-SEMARNAT-2026, Que establece los elementos y procedimientos para instrumentar planes de manejo de residuos mineros.</title>
-    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798261&amp;fecha=09/09/2026"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798261</id>
-    <updated>2026-09-09T07:00:00-06:00</updated>
-    <category term="mineria" label="Minería"/>
-    <summary>DOF, edición matutina. SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES. Minería.</summary>
-  </entry>
-  <entry>
-    <title>Acuerdo por el que se modifican, eliminan y adicionan diversas disposiciones de los Lineamientos para la migración voluntaria y expedita de autoabastecimiento y cogeneración de energía eléctrica a las figuras previstas en la Ley del Sector Eléctrico.</title>
-    <link rel="alternate" href="https://dof.gob.mx/nota_detalle.php?codigo=5798117&amp;fecha=08/09/2026"/>
-    <id>tag:beg-lag.github.io,2026:radar-energia/dof-5798117</id>
-    <updated>2026-09-08T07:00:00-06:00</updated>
-    <category term="electricidad" label="Electricidad"/>
-    <category term="SENER" label="Secretaría de Energía"/>
-    <summary>DOF, edición matutina. SECRETARIA DE ENERGIA. Electricidad. SENER.</summary>
   </entry>
 </feed>
